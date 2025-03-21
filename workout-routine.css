@@ -1,0 +1,43 @@
+@page {
+  size: Letter;
+  margin: 1cm 2cm;
+}
+
+body {
+  font-family: 'Inter', sans-serif;
+  font-size: 11pt;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+h1, h2 {
+  font-weight: 600;
+  color: #333;
+}
+
+h2 {
+  margin-top: 1.5em;
+}
+
+th, td {
+  border: 1px solid #666;
+  padding: 8px;
+}
+
+th {
+  background-color: #eee;
+  font-weight: 600;
+}
+
+/* Control column widths */
+th:nth-child(1), td:nth-child(1) {
+  width: 12em; /* Exercise column width */
+}
+
+th:nth-child(3), td:nth-child(3),
+th:nth-child(4), td:nth-child(4) {
+  width: 3em; /* Sets/Reps column widths */
+}
