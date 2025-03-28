@@ -28,7 +28,7 @@ title: "Weightlifting Routine"
 | :- | :--- | -: | -: | :---------- |
 | Incline Barbell Press     |           | 8-10  | 3    |                        |
 | Barbell Overhead Press    |           | 8-10  | 3    |                        |
-| Archer Push-Ups           |           | 6-8   | 3    |                        |
+| Archer Push-Ups           |           | 8-10  | 3    |                        |
 | Dumbbell Lateral Raises   |           | 12-15 | 2    |                        |
 | Weighted Dips             |           | 10-12 | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
