@@ -32,15 +32,3 @@ title: "Weightlifting Routine"
 | Dumbbell Lateral Raises   |           | 12-15 | 2    |                        |
 | Weighted Dips             |           | 10-12 | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
-
-## Stretching
-
-| Exercise                  | Done      | Reps  | Sets | Notes                  |
-| :- | :--- | -: | -: | :---------- |
-| Knee-to-wall              |           | 8     | 3    |                        |
-| 90-90 Hip Stretch         |           | 30s   | 1    |                        |
-| Couch Stretch             |           | 30s   | 1    |                        |
-| Bretzel Stretch           |           | 30s   | 2    |                        |
-| Floor Pec Stretch         |           | 30s   | 1    |                        |
-| Dead Hang                 |           | 10s   | 3    |                        |
-| Pancake Stretch           |           | 30s   | 1    |                        |
