@@ -21,6 +21,7 @@ title: "Weightlifting Routine"
 | Barbell Squats            |           | 8-10  | 3    |                        |
 | Assisted Chins            |           | 6-10  | 3    |                        |
 | Barbell Rows              |           | 6-8   | 3    |                        |
+| Sliding Leg Curls         |           | 8-12  | 3    |                        |
 
 ## Day 3: Upper Body Volume (Delts & Pecs Focus)
 
