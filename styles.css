@@ -1,6 +1,6 @@
 @page {
   size: Letter;
-  margin: 1cm 2cm;
+  margin: 0.5in 1in;
 }
 
 body {
@@ -9,7 +9,6 @@ body {
 }
 
 table {
-  width: 100%;
   border-collapse: collapse;
 }
 
