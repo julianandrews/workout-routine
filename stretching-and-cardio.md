@@ -4,15 +4,16 @@ title: "Stretching and Cardio"
 
 ## Stretching
 
-| Exercise              | Mon | Tue | Wed | Thu | Fri | Details               |
+| Exercise                  | Mon | Tue | Wed | Thu | Fri | Details               |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
-| Knee-to-wall          | ☐   | ☐   | ☐   | ☐   | ☐   | 8 × 3 (per side)      |
-| 90-90 Hip Stretch     | ☐   | ☐   | ☐   | ☐   | ☐   | 30s × 1 (per side)    |
-| Couch Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s × 1 (per side)    |
-| Bretzel Stretch       | ☐   | ☐   | ☐   | ☐   | ☐   | 30s × 2 (per side)    |
-| Floor Pec Stretch     | ☐   | ☐   | ☐   | ☐   | ☐   | 30s × 1 (per side)    |
-| Dead Hang             | ☐   | ☐   | ☐   | ☐   | ☐   | 3 sets                |
-| Pancake Stretch       | ☐   | ☐   | ☐   | ☐   | ☐   | 30s × 1               |
+| Knee-to-wall              | ☐   | ☐   | ☐   | ☐   | ☐   | 8 × 3 (per side)      |
+| 90-90 Hip Stretch         | ☐   |     | ☐   |     | ☐   | 30s (per side)        |
+| Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)        |
+| Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
+| Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side) × 2    |
+| Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
+| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 8s × 5                |
+| Paused Jefferson Curls    |     | ☐   |     | ☐   |     | 8 × 2 (2s pause)      |
 
 ## Cardio
 
