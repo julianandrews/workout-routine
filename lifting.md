@@ -9,7 +9,7 @@ title: "Weightlifting Routine"
 | Barbell Bench Press       |           | 4-6   | 3    |                        |
 | Barbell Overhead Press    |           | 6-8   | 3    |                        |
 | Ring Face Pulls           |           | 12-15 | 3    |                        |
-| Dumbbell Lateral Raises   |           | 12-15 | 2    |                        |
+| Dumbbell Lateral Raises   |           | 13-15 | 2    |                        |
 | Weighted Dips             |           | 10-12 | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
 
