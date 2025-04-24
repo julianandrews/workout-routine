@@ -6,7 +6,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:-------------|:----|--:|--:|:-------------|
-| Barbell Bench Press       |           | 4-6   | 3    |                        |
+| Bench Press (clusters)    |           | 3-5   | 4    |                        |
 | Barbell Overhead Press    |           | 6-8   | 3    |                        |
 | Ring Face Pulls           |           | 12-15 | 3    |                        |
 | Dumbbell Lateral Raises   |           | 13-15 | 2    |                        |
