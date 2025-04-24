@@ -12,7 +12,7 @@ title: "Stretching and Cardio"
 | Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
 | Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side) × 2    |
 | Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
-| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 12s × 5               |
+| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 15s × 5               |
 | Paused Jefferson Curls    |     | ☐   |     | ☐   |     | 8 × 2 (2s pause)      |
 
 ## Cardio
