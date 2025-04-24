@@ -10,7 +10,7 @@ title: "Weightlifting Routine"
 | Barbell Overhead Press    |           | 6-8   | 3    |                        |
 | Ring Face Pulls           |           | 12-15 | 3    |                        |
 | Dumbbell Lateral Raises   |           | 13-15 | 2    |                        |
-| Weighted Dips             |           | 10-12 | 2    |                        |
+| Weighted Dips             |           | 5-8   | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
 
 ## Day 2: Full Body Maintenance
@@ -31,5 +31,5 @@ title: "Weightlifting Routine"
 | Barbell Overhead Press    |           | 8-10  | 3    |                        |
 | Archer Push-Ups           |           | 8-10  | 3    |                        |
 | Dumbbell Lateral Raises   |           | 13-15 | 2    |                        |
-| Weighted Dips             |           | 10-12 | 2    |                        |
+| Weighted Dips             |           | 8-10  | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
