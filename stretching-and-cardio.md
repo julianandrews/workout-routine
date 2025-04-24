@@ -13,7 +13,6 @@ title: "Stretching and Cardio"
 | Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)        |
 | Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Dead Hang                 | ☐   |     | ☐   |     | ☐   | 15s × 5               |
-| Paused Jefferson Curls    |     | ☐   |     | ☐   |     | 8 × 2 (2s pause)      |
 
 ## Cardio
 
