@@ -2,7 +2,7 @@
 title: "Stretching and Cardio"
 ---
 
-## Stretching
+## Stretching and Practice
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details               |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
@@ -15,6 +15,8 @@ title: "Stretching and Cardio"
 | Sleeper Stretch           |     | ☐   |     | ☐   |     | 30s (per side)        |
 | Towel-Assisted Clasp      | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Dead Hang                 | ☐   |     | ☐   |     | ☐   | 15s × 5               |
+| OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
+| Band Pull Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 10-15 × 2             |
 
 ## Cardio
 
