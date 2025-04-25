@@ -13,6 +13,7 @@ with exercises that will have more overall impact.
 ## Exercises to consider
 
 - Cluster sets in place of traditional for presses.
+- Elevated OAPU in place of archer push-ups in another few weeks!
 - Band Pull aparts
     - These would hit one of my biggest last weaknesses and complement the face pulls
     - I can likely drop pec stretches if I do these.
