@@ -10,14 +10,11 @@ with exercises that will have more overall impact.
     - Third world squats
     - Shoulder stretch (hands clasped behind back)
 
-## Exercises to consider
+## Changes to consider
 
 - Cluster sets in place of traditional for presses.
+- Increase Face Pull frequency if upper cross syndrome progress is slow.
 - Elevated OAPU in place of archer push-ups in another few weeks!
-- Band Pull aparts
-    - These would hit one of my biggest last weaknesses and complement the face pulls
-    - I can likely drop pec stretches if I do these.
-    - The rowing will also likely help when I do it consistently.
 - Core
     - Hanging Leg Raises
         - Once Dead hangs reach 20s + I'll add a set of leg raises to the later part of the hang.
