@@ -19,7 +19,7 @@ title: "Weightlifting Routine"
 |:-------------|:----|--:|--:|:-------------|
 | Romanian Deadlifts        |           | 8-10  | 3    |                        |
 | Barbell Squats            |           | 8-10  | 3    |                        |
-| Assisted Chins            |           | 6-10  | 3    |                        |
+| Assisted Chins            |           | 6-10  | 1    |                        |
 | Barbell Rows              |           | 6-8   | 3    |                        |
 | Sliding Leg Curls         |           | 8-12  | 3    |                        |
 
