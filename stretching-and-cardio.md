@@ -11,7 +11,7 @@ title: "Stretching and Cardio"
 | Couch Stretch             |     |     | ☐   |     | ☐   | 30s (per side)        |
 | Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)        |
-| Floor Pec Stretch         |     | ☐   |     | ☐   |     | 30s (per side)        |
+| Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
 | Sleeper Stretch           |     | ☐   |     | ☐   |     | 30s (per side)        |
 | Towel-Assisted Clasp      | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Dead Hang                 | ☐   |     | ☐   |     | ☐   | 15s × 5               |
