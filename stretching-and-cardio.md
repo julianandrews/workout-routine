@@ -1,8 +1,8 @@
 ---
-title: "Stretching and Cardio"
+title: "Stretching, Skill Work, and Cardio"
 ---
 
-## Stretching and Practice
+## Stretching and Skill Work
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details               |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
@@ -13,7 +13,7 @@ title: "Stretching and Cardio"
 | Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)        |
 | Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
 | Sleeper Stretch           |     | ☐   |     | ☐   |     | 30s (per side)        |
-| Towel-Assisted Clasp      | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
+| Towel-Assisted Clasp      | ☐   |     | ☐   |     | ☐   | 30s × 2               |
 | Dead Hang                 | ☐   |     | ☐   |     | ☐   | 15s × 5               |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
 | Band Pull Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 10-15 × 2             |
