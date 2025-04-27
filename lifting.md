@@ -6,11 +6,11 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:-------------|:----|--:|--:|:-------------|
-| Bench Press (clusters)    |           | 3-5   | 4    |                        |
-| Barbell Overhead Press    |           | 6-8   | 3    |                        |
-| Weighted Dips             |           | 5-8   | 2    |                        |
+| Bench Press (clusters)    |           | 3-4   | 4    |                        |
+| Barbell OHP (clusters)    |           | 3-4   | 4    |                        |
+| Weighted Dips             |           | 5-8   | 1    |                        |
 | Ring Face Pulls           |           | 12-15 | 3    |                        |
-| Dumbbell Lateral Raises   |           | 13-15 | 2    |                        |
+| Banded Lateral Raises     |           | 15-20 | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
 
 ## Day 2
@@ -27,9 +27,9 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:-------------|:----|--:|--:|:-------------|
-| Incline Barbell Press     |           | 8-10  | 3    |                        |
-| Barbell Overhead Press    |           | 8-10  | 3    |                        |
-| Weighted Dips             |           | 8-10  | 2    |                        |
+| Incline BB Press (40°)    |           | 9-12  | 3    |                        |
+| Incline BB OHP (15-30°)   |           | 9-12  | 3    |                        |
 | Archer Push-Ups           |           | 8-10  | 3    |                        |
-| Dumbbell Lateral Raises   |           | 13-15 | 2    |                        |
+| Seated DB Lateral Raises  |           | 10-12 | 3    |                        |
+| Bench Rear Flyes          |           | 10-12 | 3    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
