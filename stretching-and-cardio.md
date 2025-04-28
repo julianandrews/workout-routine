@@ -19,7 +19,7 @@ title: "Stretching, Skill Work, and Cardio"
 
 ## Cardio
 
-| # | Activity      | Pace  | Time  | Notes                               | ✓ |
+| # | Activity      | Range | Time  | Notes                               | ✓ |
 |:-:|:--------------|:------|:------|:------------------------------------|:-:|
 | 1 |               |       |       |                                     | ☐ |
 | 2 |               |       |       |                                     | ☐ |
