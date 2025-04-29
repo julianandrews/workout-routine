@@ -19,12 +19,16 @@ sudo apt update
 sudo apt install pandoc weasyprint
 ```
 
-## Generating the PDF
+## Generating the PDF and Printing
 
-To generate the PDF, navigate to the repository directory and run the following command:
+To print, navigate to the repository directory and run:
 
 ```bash
-pandoc workout-routine.md -o workout-routine.pdf --css=workout-routine.css --pdf-engine=weasyprint
+./print.sh
 ```
 
-This will create a `workout-routine.pdf` file in the current directory.
+Generate the PDF without printing, navigate to the repository directory and run:
+
+```bash
+./print.sh --generate-only
+```
