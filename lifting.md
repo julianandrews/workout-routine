@@ -9,7 +9,7 @@ title: "Weightlifting Routine"
 | Bench Press (cluster)     |           | 4+3+2 | 1    |                        |
 | Barbell OHP (cluster)     |           | 5+4+3 | 1    |                        |
 | Weighted Dips             |           | 5-8   | 1    |                        |
-| Ring Face Pulls           |           | 12-15 | 3    |                        |
+| Ring Face Pulls           |           | 15    | 3    |                        |
 | Banded Lateral Raises     |           | 15-20 | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
 

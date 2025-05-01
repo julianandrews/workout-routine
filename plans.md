@@ -18,6 +18,8 @@ with exercises that will have more overall impact.
 - Switch to ring dips
 - Elevated OAPU in place of archer push-ups in another few weeks!
 - Increase Face Pull frequency if upper cross syndrome progress is slow.
+    - Progress by controlled tempo - 3s pull, 2s squeeze, 3s eccentric
+    - Consider one-arm variant (start with eccentric only?)
     - Consider banded face pulls if progression seems tricky
 - Rear Delt Flyes (for delt growth)
     - Lat raises hit the side delts, and all the pressing does the front delts. Rear delts are a little underworked.
