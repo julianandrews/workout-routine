@@ -16,6 +16,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Dead Hang                 | ☐   |     | ☐   |     | ☐   | 18s × 5               |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
 | Band Pull Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 10-15 × 2             |
+| Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
 
 ## Cardio
 
