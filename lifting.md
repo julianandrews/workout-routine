@@ -8,7 +8,6 @@ title: "Weightlifting Routine"
 |:-------------|:----|--:|--:|:-------------|
 | Bench Press (cluster)     |           | 4+3+2 | 1    |                        |
 | Barbell OHP (cluster)     |           | 5+4+3 | 1    |                        |
-| Weighted Dips             |           | 5-8   | 1    |                        |
 | Ring Face Pulls           |           | 15    | 3    |                        |
 | Banded Lateral Raises     |           | 15-20 | 2    |                        |
 | Biceps Curls              |           | 10-12 | 2    |                        |
@@ -19,7 +18,6 @@ title: "Weightlifting Routine"
 |:-------------|:----|--:|--:|:-------------|
 | Barbell Squat (cluster)   |           | 4+3+2 | 1    |                        |
 | RDLs                      |           | 8-10  | 3    |                        |
-| Assisted Chins            |           | 6-10  | 1    |                        |
 | Barbell Rows              |           | 6-8   | 3    |                        |
 | Sliding Leg Curls         |           | 8-12  | 3    |                        |
 
