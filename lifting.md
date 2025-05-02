@@ -30,4 +30,4 @@ title: "Weightlifting Routine"
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo @ 17.5lbs  |
 | Archer Push-Ups           |           | 8-10  | 3    |                        |
 | Bench Rear Flyes          |           | 10-12 | 3    |                        |
-| Biceps Curls              |           | 10-12 | 2    |                        |
+| Hammer Curls              |           | 10-12 | 2    |                        |
