@@ -13,7 +13,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)        |
 | Seated T-Spine Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 8 reps                |
 | Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
-| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 18s × 5               |
+| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 20s × 5               |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
 | Band Pull Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 10-15 × 2             |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
