@@ -25,7 +25,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:----------|:----|--:|--:|:-----------|
-| Incline BB Press (40°)    |           | 9-12  | 3    |                        |
+| Bench Press               |           | 9-12  | 3    |                        |
 | Incline BB OHP (15-30°)   |           | 9-12  | 3    |                        |
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo @ 17.5lbs  |
 | Archer Push-Ups           |           | 8-10  | 3    |                        |
