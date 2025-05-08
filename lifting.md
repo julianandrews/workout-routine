@@ -6,7 +6,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:----------|:----|--:|--:|:-----------|
-| DB Lat Raises (cluster)   |           | 8+6+4 | 1    | Drop weight to 20lbs   |
+| DB Lat Raises (cluster)   |           | 8+6+4 | 1    |                        |
 | Bench Press (cluster)     |           | 4+3+2 | 1    |                        |
 | Barbell OHP (cluster)     |           | 5+4+3 | 1    |                        |
 | Ring Face Pulls           |           | 15    | 3    |                        |
@@ -26,8 +26,8 @@ title: "Weightlifting Routine"
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:----------|:----|--:|--:|:-----------|
 | Bench Press               |           | 9-12  | 3    |                        |
-| Incline BB OHP (15-30°)   |           | 9-12  | 3    |                        |
-| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo @ 17.5lbs  |
+| Incline Press (15°)       |           | 9-12  | 3    |                        |
+| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)    |
 | Archer Push-Ups           |           | 8-10  | 3    |                        |
 | Bench Rear Flyes          |           | 10-12 | 3    |                        |
 | Hammer Curls              |           | 10-12 | 2    |                        |
