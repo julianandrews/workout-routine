@@ -27,6 +27,8 @@ with exercises that will have more overall impact.
     - Suitcase carries (obliques, could add to lower body day)
     - Side planks - covers a lot of good stuff, could do 30s/side
 - Calf Raises (for calves)
+- Calf stretches
+- Deep Squat hold (for general mobility / third world squats)
 - Farmer's Carries (for grip/core)
 - Deadlifts in place of (or as well as) RDLs.
 - Increase Face Pull frequency if upper cross syndrome progress is slow.
