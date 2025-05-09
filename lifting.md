@@ -25,9 +25,9 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                  |
 |:----------|:----|--:|--:|:-----------|
-| Bench Press               |           | 9-12  | 3    |                        |
-| Incline Press (15°)       |           | 9-12  | 3    |                        |
+| Bench Press               |           | 10-12 | 3    |                        |
+| Incline Press (15°)       |           | 10-12 | 3    |                        |
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)    |
-| Archer Push-Ups           |           | 8-10  | 3    |                        |
 | Bench Rear Flyes          |           | 10-12 | 3    |                        |
 | Hammer Curls              |           | 10-12 | 2    |                        |
+| Archer Push-Ups           |           | 10    | 3    |                        |
