@@ -6,17 +6,19 @@ title: "Stretching, Skill Work, and Cardio"
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details               |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
-| Knee-to-wall              | ☐   | ☐   | ☐   | ☐   | ☐   | 8 × 3 (per side)      |
+| Seated T-Spine Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 12 reps               |
+| Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
+| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
+| Knee-to-wall              |     | ☐   |     | ☐   |     | 8 × 3 (per side)      |
+| Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8 × 3 (per side)      |
 | 90-90 Hip Stretch         | ☐   | ☐   |     | ☐   |     | 30s (per side)        |
 | Couch Stretch             |     |     | ☐   |     | ☐   | 30s (per side)        |
 | Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
-| Bretzel Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)        |
-| Seated T-Spine Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 8 reps                |
 | Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
-| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 25s × 5               |
+| Band Pull-Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 15 × 2                |
+| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 25s × 4               |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
-| Band Pull Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 10-15 × 2             |
-| Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
+| Bretzel                   | ☐   | ☐   |     | ☐   | ☐   | 60s (per side)        |
 
 ## Cardio
 
