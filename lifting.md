@@ -18,8 +18,8 @@ title: "Weightlifting Routine"
 |:----------|:----|--:|--:|:-----------|
 | Barbell Squat (cluster)   |           | 4+3+2 | 1    |                        |
 | RDLs                      |           | 8-10  | 3    |                        |
+| Band-Assisted Nordics     |           | 3-5   | 3    | Partial ROM for now    |
 | Barbell Rows              |           | 6-8   | 3    |                        |
-| Sliding Leg Curls         |           | 8-12  | 3    |                        |
 
 ## Day 3
 
