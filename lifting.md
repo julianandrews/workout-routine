@@ -33,4 +33,4 @@ title: "Weightlifting Routine"
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)    |
 | Bench Rear Flyes          |           | 10-12 | 3    |                        |
 | Hammer Curls              |           | 10-12 | 2    |                        |
-| Archer Push-Ups           |           | 10    | 3    |                        |
+| Elev. One-Armed Pushups   |           | 3-5   | 3    | 20" elevation          |
