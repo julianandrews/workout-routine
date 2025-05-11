@@ -20,8 +20,8 @@ title: "Weightlifting Routine"
 | RDLs                      |           | 8-10  | 3    |                        |
 | Band-Assisted Nordics     |           | 3-5   | 3    | Partial ROM for now    |
 | Barbell Rows              |           | 6-8   | 3    |                        |
-| Weighted Dips             |           | 8     | 1    |                        |
-| Assisted Chins            |           | 8     | 1    |                        |
+| Weighted Dips             |           | 6-8   | 1    |                        |
+| Assisted Chins            |           | 6-8   | 1    |                        |
 
 ## Day 3
 
