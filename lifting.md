@@ -29,7 +29,7 @@ title: "Weightlifting Routine"
 |:----------|:----|--:|--:|:-----------|
 | Bench Press               |           | 10-12 | 3    |                        |
 | Incline Press (15°)       |           | 10-12 | 3    |                        |
-| Ring Rows                 |           | 10-12 | 3    |                        |
+| Ring Rows                 |           | 10-12 | 3    | 2-1-2 tempo            |
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)    |
 | Bench Rear Flyes          |           | 10-12 | 3    |                        |
 | Hammer Curls              |           | 10-12 | 2    |                        |
