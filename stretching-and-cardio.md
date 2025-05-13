@@ -27,3 +27,4 @@ title: "Stretching, Skill Work, and Cardio"
 | 1 |               |       |       |                                     | ☐ |
 | 2 |               |       |       |                                     | ☐ |
 | + |               |       |       |                                     | ☐ |
+| ! | 4x4 C2 HIIT   |       |       |                                     | ☐ |
