@@ -15,7 +15,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Couch Stretch             |     |     | ☐   |     | ☐   | 30s (per side)        |
 | Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
-| Band Pull-Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 15 × 2                |
+| Band Pull-Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 15 × 3                |
 | Dead Hang                 | ☐   |     | ☐   |     | ☐   | 30x × 4               |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
 | Bretzel                   | ☐   | ☐   |     | ☐   | ☐   | 60s (per side)        |
