@@ -9,6 +9,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Seated T-Spine Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 12 reps               |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
+| Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)        |
 | Knee-to-wall              |     | ☐   |     | ☐   |     | 8 × 3 (per side)      |
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8 × 3 (per side)      |
 | 90-90 Hip Stretch         | ☐   | ☐   |     | ☐   |     | 30s (per side)        |
