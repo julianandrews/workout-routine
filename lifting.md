@@ -19,6 +19,7 @@ title: "Weightlifting Routine"
 | Barbell Squat (cluster)   |           | 4+3+2 | 1    |                        |
 | RDLs                      |           | 8-10  | 2    |                        |
 | Band-Assisted Nordics     |           | 3-5   | 3    | Partial ROM for now    |
+| Ring Rows                 |           | 10-12 | 3    | 2-1-2 tempo            |
 | Barbell Rows              |           | 6-8   | 3    |                        |
 | Weighted Dips             |           | 6-8   | 1    |                        |
 | Assisted Chins            |           | 6-8   | 1    |                        |
@@ -29,7 +30,6 @@ title: "Weightlifting Routine"
 |:----------|:----|--:|--:|:-----------|
 | Bench Press               |           | 10-12 | 3    |                        |
 | Incline Press (15°)       |           | 10-12 | 3    |                        |
-| Ring Rows                 |           | 10-12 | 3    | 2-1-2 tempo            |
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)    |
 | Bench Rear Flyes          |           | 10-12 | 3    |                        |
 | Hammer Curls              |           | 10-12 | 2    |                        |
