@@ -18,7 +18,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Pancake Stretch           | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Floor Pec Stretch         | ☐   | ☐   | ☐   | ☐   | ☐   | 30s (per side)        |
 | Band Pull-Aparts          | ☐   | ☐   | ☐   | ☐   | ☐   | 15 × 3                |
-| Dead Hang                 | ☐   |     | ☐   |     | ☐   | 30s × 4               |
+| Dead Hang w/ shrugs       | ☐   |     | ☐   |     | ☐   | 30s × 4 (3-5 shrugs)  |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
 | Bretzel                   | ☐   | ☐   |     | ☐   | ☐   | 60s (per side)        |
 
