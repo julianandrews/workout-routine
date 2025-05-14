@@ -13,6 +13,10 @@ that will have more overall impact.
     - Dips
         - Add back in weighted dips (once biceps happy)
         - Ring dips
+    - Switch to Bulgarian Split Squats
+        - These should be better for general mobility and functional strength
+        - I think I should be able to program these as 5+4+3 clusters
+        - If that doesn't work, there are other options
 
 ## Goals
 
