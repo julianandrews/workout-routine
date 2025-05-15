@@ -8,6 +8,7 @@ title: "Stretching, Skill Work, and Cardio"
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
 | Seated T-Spine Extensions | ☐   |     | ☐   |     |     | 1×8 (3 rot. pulses)   |
 | Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)         |
+| Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)        |
 | Squat Holds               | ☐   |     | ☐   |     | ☐   | 30s                   |
 | Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)        |
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side)        |
@@ -16,7 +17,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Isometric 90-90 press     |     |     | ☐   |     |     | 2×10 (per side)       |
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)        |
 | Cossack Squats            |     | ☐   |     | ☐   |     | 2×5 (per side)        |
-| Wall Slides               |     | ☐   |     | ☐   |     | 1×10                  |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
 | Pancake PNF w/ pulses     | ☐   | ☐   |     | ☐   |     | 3 rounds              |
 | 3-Way Band Pull-Aparts    | ☐   | ☐   | ☐   | ☐   | ☐   | 3×15                  |
