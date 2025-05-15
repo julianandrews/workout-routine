@@ -9,7 +9,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Seated T-Spine Extensions | ☐   |     | ☐   |     |     | 1×8                   |
 | Wall Slides               |     | ☐   |     | ☐   |     | 1×10                  |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
-| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
+| Squat Holds               | ☐   |     | ☐   |     | ☐   | 30s                   |
 | Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)        |
 | Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)         |
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side)        |
