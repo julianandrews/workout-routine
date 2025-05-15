@@ -12,7 +12,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30s                   |
 | Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)        |
 | Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)         |
-| Knee-to-wall              |     | ☐   |     | ☐   |     | 8×3 (per side)        |
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side)        |
 | 90-90 Hip Stretch         | ☐   | ☐   |     | ☐   |     | 30s (per side)        |
 | Couch Stretch             |     |     | ☐   |     | ☐   | 30s (per side)        |
