@@ -19,8 +19,8 @@ title: "Weightlifting Routine"
 | Barbell Squat (cluster)   |           | 4+3+2 | 1    |                            |
 | RDLs                      |           | 8-10  | 2    |                            |
 | Band-Assisted Nordics     |           | 3-5   | 3    | Set 3: eccentric w/ hold   |
-| Ring Rows                 |           | 10-12 | 3    | 2-1-2 tempo                |
-| Barbell Rows              |           | 6-8   | 2    |                            |
+| Barbell Rows              |           | 5-6   | 3    |                            |
+| Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
 | Weighted Dips             |           | 6-8   | 1    |                            |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 
