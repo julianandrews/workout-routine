@@ -21,7 +21,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 4×30s (3-5 shrugs)    |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)        |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s                |
-| 3-Way Band Pull-Aparts    | ☐   | ☐   | ☐   | ☐   | ☐   | 3×15                  |
+| 3-Way Band Pull-Aparts    | ☐   | ☐   | ☐   | ☐   | ☐   | 4×15                  |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)        |
 
 ## Cardio
