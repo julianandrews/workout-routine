@@ -18,7 +18,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Cossack Squats            |     | ☐   |     | ☐   |     | 2×5 (per side)        |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)          |
 | Pancake PNF w/ pulses     |     | ☐   |     | ☐   |     | 3 rounds              |
-| Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 4×30s (3-5 shrugs)    |
+| Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 2×45s (3-5 shrugs)    |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)        |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s                |
 | 3-Way Band Pull-Aparts    | ☐   | ☐   | ☐   | ☐   | ☐   | 4×15                  |
