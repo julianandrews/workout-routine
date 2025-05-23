@@ -30,7 +30,7 @@ title: "Weightlifting Routine"
 |:----------|:----|--:|--:|:-----------|
 | Bench Press               |           | 10-12 | 3    |                            |
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
-| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
+| Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | Elev. One-Armed Pushups   |           | 3-5   | 3    | 20" elevation              |
