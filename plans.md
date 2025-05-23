@@ -6,18 +6,15 @@ that will have more overall impact.
 
 - Near term changes
     - Do some dead hangs w/ suppinated grip for better wrist health.
+    - Add back in a set or two of weighted dips
 
 ## Goals
 
 - Third world squats
 - Shoulder stretch (hands clasped behind back)
-- One armed pushups
+- One armed push-ups
 - Real unassisted pull-ups!
 - Better glutes
-- Add back in assisted chin-up volume
-- Dips
-    - Add back in weighted dips (once biceps happy)
-    - Ring dips
 - Front rack flexibility
 
 ## Changes to consider
