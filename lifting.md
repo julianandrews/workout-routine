@@ -9,8 +9,9 @@ title: "Weightlifting Routine"
 | DB Lat Raises (cluster)   |           | 8+6+4 | 1    |                            |
 | Bench Press (cluster)     |           | 4+3+2 | 1    |                            |
 | Barbell OHP (cluster)     |           | 5+4+3 | 1    |                            |
-| Ring Face Pulls           |           | 15    | 3    |                            |
+| Ring Face Pulls           |           | 15    | 2    |                            |
 | Biceps Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
+| Weighted Dips             |           | 6-8   | 1    |                            |
 
 ## Day 2
 
@@ -21,7 +22,6 @@ title: "Weightlifting Routine"
 | Band-Assisted Nordics     |           | 3-5   | 3    | Set 3: eccentric w/ hold   |
 | Barbell Rows              |           | 5-6   | 3    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
-| Weighted Dips             |           | 6-8   | 1    |                            |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 
 ## Day 3
