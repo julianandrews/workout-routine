@@ -9,6 +9,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Seated T-Spine Extensions | ☐   |     |     |     | ☐   | 1×8 (3 rot. pulses)       |
 | Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)             |
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
+| 3-Way Band Pull-Aparts    | ☐   |     | ☐   |     | ☐   | 4×15                      |
 | Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)            |
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (w/ pulses, per side) |
 | Eccentric Calf Raise      |     |     | ☐   |     |     | 1x8 (5s per side)         |
@@ -22,7 +23,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 3×40s (3-5 shrugs)        |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
-| 3-Way Band Pull-Aparts    | ☐   | ☐   | ☐   | ☐   | ☐   | 4×15                      |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
 
 ## Cardio
