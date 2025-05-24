@@ -17,7 +17,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Isometric 90-90 press     |     |     | ☐   |     |     | 2×10s (per side)          |
 | 90-90 Stretch             |     | ☐   |     |     | ☐   | 30s (per side)            |
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)            |
-| Cossack Squats            |     | ☐   |     | ☐   |     | 2×5 (per side)            |
+| Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side, 3s pause)  |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
 | Pancake PNF w/ pulses     |     | ☐   |     | ☐   |     | 3 rounds                  |
 | Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 3×40s (3-5 shrugs)        |
