@@ -11,13 +11,13 @@ title: "Stretching, Skill Work, and Cardio"
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | 3-Way Band Pull-Aparts    | ☐   |     | ☐   |     | ☐   | 4×15                      |
 | Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)            |
-| Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (w/ pulses, per side) |
+| Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side, pulsed)    |
 | Eccentric Calf Raise      |     |     | ☐   |     |     | 1x8 (5s per side)         |
 | 90-90 Switches            |     |     | ☐   |     |     | 3×8 (per side)            |
 | Isometric 90-90 press     |     |     | ☐   |     |     | 2×10s (per side)          |
 | 90-90 Stretch             |     | ☐   |     |     | ☐   | 30s (per side)            |
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)            |
-| Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side, 3s pause)  |
+| Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side)            |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
 | Pancake PNF w/ pulses     |     | ☐   |     | ☐   |     | 3 rounds                  |
 | Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 3×40s (3-5 shrugs)        |
