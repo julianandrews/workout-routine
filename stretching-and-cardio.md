@@ -14,7 +14,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side, pulsed)    |
 | Eccentric Calf Raise      |     |     | ☐   |     |     | 1x8 (5s per side)         |
 | 90-90 Switches            |     |     | ☐   |     |     | 3×8 (per side)            |
-| Isometric 90-90 press     |     |     | ☐   |     |     | 2×10s (per side)          |
 | 90-90 Stretch             |     | ☐   |     |     | ☐   | 30s (per side)            |
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)            |
 | Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side)            |
