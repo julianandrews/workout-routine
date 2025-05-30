@@ -1,0 +1,123 @@
+#!/bin/bash
+
+set -euo pipefail
+
+# Ensure we're in the script's directory (for local file access)
+cd "$(dirname "$0")"
+
+GENERATE_ONLY=0
+PAGES=("lifting" "stretching-and-cardio")
+OUTPUT_FILE="/tmp/full-workout.pdf"
+PRINTER="${PRINTER:-}"
+
+print_help() {
+  cat <<EOF
+Usage: $(basename "$0") [OPTIONS]
+
+Generates and optionally prints a PDF of your workout routine.
+
+Options:
+  --prefix PREFIX       Optional prefix to apply to input files
+                        (e.g., 'travel' makes it use travel-lifting.md)
+
+  --generate-only       Generate the PDF but don't print it or delete intermediate files
+
+  --printer PRINTER     Printer name to use with 'lp'
+                        (uses system default if not specified)
+
+  --output FILE         Output PDF filename
+                        (default: /tmp/full-workout.pdf)
+
+  --help                Show this help message and exit
+
+Examples:
+  $(basename "$0") --prefix travel
+      Uses travel-lifting.md and travel-stretching-and-cardio.md as input.
+
+  $(basename "$0") --generate-only --output my-routine.pdf
+      Creates PDFs but doesn't print or delete them.
+
+  $(basename "$0") --printer HP-LaserJet
+      Prints using the specified printer.
+
+EOF
+}
+
+# Parse options
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --prefix)
+      prefix="$2"
+      shift 2
+      OLD_PAGES=("${PAGES[@]}")
+      PAGES=()
+      for page in "${OLD_PAGES[@]}"; do
+        PAGES+=("${prefix}-$page")
+      done
+      ;;
+    --generate-only)
+      GENERATE_ONLY=1
+      shift
+      ;;
+    --printer)
+      PRINTER="$2"
+      shift 2
+      ;;
+    --output)
+      OUTPUT_FILE="$2"
+      shift 2
+      ;;
+    --help)
+      print_help
+      exit 0
+      ;;
+    *)
+      echo "Unknown option: $1"
+      exit 1
+      ;;
+  esac
+done
+
+# Check dependencies
+for cmd in pandoc pdfunite lp weasyprint; do
+  if ! command -v "$cmd" &>/dev/null; then
+    echo "Error: Required tool '$cmd' not installed. Aborting." >&2
+    exit 1
+  fi
+done
+
+# Check input files (Markdown + CSS)
+for page in "${PAGES[@]}"; do
+  if [[ ! -f "${page}.md" ]]; then
+    echo "Error: Missing required file '${page}.md'. Aborting." >&2
+    exit 1
+  fi
+done
+
+# Generate PDFs in parallel
+echo "Generating PDFs..."
+for page in "${PAGES[@]}"; do
+  pandoc "$page.md" -o "/tmp/$page.pdf" --css "styles.css" --pdf-engine weasyprint &
+done
+wait
+
+PDF_FILES=()
+for page in "${PAGES[@]}"; do
+    PDF_FILES+=("/tmp/${page}.pdf")
+done
+
+pdfunite "${PDF_FILES[@]}" "$OUTPUT_FILE"
+
+if [[ "$GENERATE_ONLY" -eq 1 ]]; then
+  # --generate-only: Skip printing/cleanup
+  echo "Generated files:"
+  ls -l "${PDF_FILES[@]}" "$OUTPUT_FILE"
+else
+  # Default behavior: Print + cleanup
+  echo "Printing (duplex)..."
+  cmd=(echo lp) # TODO
+  [[ -n "$PRINTER" ]] && cmd+=("-d" "$PRINTER")
+  cmd+=("-o" "sides-two-sided-long-edge" "$OUTPUT_FILE")
+  "${cmd[@]}"
+  rm "${PDF_FILES[@]}" "$OUTPUT_FILE"
+fi
