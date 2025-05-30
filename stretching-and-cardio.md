@@ -12,13 +12,13 @@ title: "Stretching, Skill Work, and Cardio"
 | 3-Way Band Pull-Aparts    | ☐   |     | ☐   |     | ☐   | 4×15                      |
 | Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)            |
 | Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side, pulsed)    |
+| Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
 | Eccentric Calf Raise      |     |     | ☐   |     |     | 1x8 (5s per side)         |
 | 90-90 Switches            |     |     | ☐   |     |     | 3×8 (per side)            |
 | 90-90 Stretch             |     | ☐   |     |     | ☐   | 30s (per side)            |
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)            |
 | Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side)            |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
-| Pancake PNF w/ pulses     |     | ☐   |     | ☐   |     | 3 rounds                  |
 | Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 3×40s (3-5 shrugs)        |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
