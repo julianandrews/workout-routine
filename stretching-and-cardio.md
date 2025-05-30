@@ -19,7 +19,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)            |
 | Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side)            |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
-| Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 3×40s (3-5 shrugs)        |
+| Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 3×50s (3-5 shrugs)        |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
