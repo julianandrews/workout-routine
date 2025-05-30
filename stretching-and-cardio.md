@@ -6,7 +6,7 @@ title: "Stretching, Skill Work, and Cardio"
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
-| Seated T-Spine Extensions | ☐   |     |     |     | ☐   | 1×8 (3 rot. pulses)       |
+| Wall Angels               | ☐   |     |     |     | ☐   | 2×8                       |
 | Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)             |
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | 3-Way Band Pull-Aparts    | ☐   |     | ☐   |     | ☐   | 4×15                      |

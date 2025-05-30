@@ -6,7 +6,7 @@ title: "Stretching and Skill Work"
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
-| Seated T-Spine Extensions | ☐   |     |     |     | ☐   | 1×8 (3 rot. pulses)       |
+| Wall Angels               | ☐   |     |     |     | ☐   | 2×8                       |
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | Squat Holds               | ☐   |     | ☐   |     | ☐   | 30-60s (w/ toe raise)     |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
