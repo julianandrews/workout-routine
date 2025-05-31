@@ -10,10 +10,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)             |
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | 3-Way Band Pull-Aparts    | ☐   |     | ☐   |     | ☐   | 4×15                      |
-| Banded Ankle Mobs         | ☐   |     | ☐   |     | ☐   | 30s (per side)            |
-| Weighted knee-to-wall     | ☐   |     | ☐   |     | ☐   | 8×3 (per side, pulsed)    |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
-| Eccentric Calf Raise      |     |     | ☐   |     |     | 1x8 (5s per side)         |
 | 90-90 Switches            |     |     | ☐   |     |     | 3×8 (per side)            |
 | 90-90 Stretch             |     | ☐   |     |     | ☐   | 30s (per side)            |
 | Couch Stretch             |     | ☐   |     | ☐   |     | 30s (per side)            |
@@ -23,6 +20,8 @@ title: "Stretching, Skill Work, and Cardio"
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
+| Elev. DF Stretch          | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
+| Loaded Big Toe Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
 
 ## Cardio
 

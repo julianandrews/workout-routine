@@ -19,9 +19,12 @@ that will have more overall impact.
 
 ## Changes to consider
 
-- T-Spine
-    - Loaded T-Spine extensions - once I'm happy with the unloaded version, these sound amazing.
-    - Kneeling overhead rockbacks - dynamic option
+- Ankle mobility options
+    - I'm pretty sure I have anterior ankle impingement. The standard banded mobs don't seem to work.
+    - https://www.youtube.com/watch?v=3Trl4JWKWjc
+    - https://www.youtube.com/watch?v=gkW7ttSkWrY
+    - https://www.youtube.com/watch?v=qwldPEO8zzE
+    - I should consider Tibialis raises if current plans don't work
 - Banded Lat Smash
     - This is worth looking into - it sounds as if it might address some tightness I have?
 - Switch to Bulgarian Split Squats or Cossack Squats
