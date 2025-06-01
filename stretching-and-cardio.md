@@ -22,6 +22,7 @@ title: "Stretching, Skill Work, and Cardio"
 | OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
 | Elev. DF Stretch          | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
 | Loaded Big Toe Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
+| Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
 ## Cardio
 
