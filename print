@@ -117,7 +117,7 @@ else
   echo "Printing (duplex)..."
   cmd=(lp)
   [[ -n "$PRINTER" ]] && cmd+=("-d" "$PRINTER")
-  cmd+=("-o" "sides-two-sided-long-edge" "$OUTPUT_FILE")
+  cmd+=("-o" "sides=two-sided-long-edge" "$OUTPUT_FILE")
   "${cmd[@]}"
   rm "${PDF_FILES[@]}" "$OUTPUT_FILE"
 fi
