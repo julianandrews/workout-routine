@@ -115,7 +115,7 @@ if [[ "$GENERATE_ONLY" -eq 1 ]]; then
 else
   # Default behavior: Print + cleanup
   echo "Printing (duplex)..."
-  cmd=(echo lp) # TODO
+  cmd=(lp)
   [[ -n "$PRINTER" ]] && cmd+=("-d" "$PRINTER")
   cmd+=("-o" "sides-two-sided-long-edge" "$OUTPUT_FILE")
   "${cmd[@]}"
