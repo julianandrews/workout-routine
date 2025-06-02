@@ -7,7 +7,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
 | Wall Angels               | ☐   |     |     |     | ☐   | 2×8                       |
-| Wrist Extensions          | ☐   |     |     |     | ☐   | 12 (per side)             |
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | 3-Way Band Pull-Aparts    | ☐   |     | ☐   |     | ☐   | 4×15                      |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
