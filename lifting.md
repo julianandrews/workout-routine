@@ -18,8 +18,8 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| Barbell Squat             |           | 4+3+2 | 1    |                            |
-| RDLs                      |           | 8-10  | 2    |                            |
+| Bulgarian Split Squat     |           | 4+3+2 | 1    |                            |
+| RDLs                      |           | 5-6   | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
 | Band-Assisted Nordics     |           | 3-5   | 3    | Set 3: eccentric w/ hold   |
