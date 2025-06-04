@@ -6,7 +6,7 @@ that will have more overall impact.
 
 - Near term changes
     - Do some dead hangs w/ suppinated grip for better wrist health.
-    - Add back in a set or two of weighted dips
+    - Start alternating grip on rows for elbow health
 
 ## Goals
 
