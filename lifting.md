@@ -2,7 +2,7 @@
 title: "Weightlifting Routine"
 ---
 
-## Day 1
+## Monday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
@@ -14,7 +14,7 @@ title: "Weightlifting Routine"
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
 
-## Day 2
+## Wednesday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
@@ -26,7 +26,7 @@ title: "Weightlifting Routine"
 | Assisted Chins            |           | 6-8   | 1    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
 
-## Day 3
+## Friday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
