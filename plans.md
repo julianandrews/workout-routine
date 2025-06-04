@@ -17,6 +17,10 @@ that will have more overall impact.
 - Better glutes
 - Front rack flexibility
 
+## Things to test
+
+- Periodic Pallof press @ 1/2 bodyweight to verify core rotation
+
 ## Changes to consider
 
 - Ankle mobility options
