@@ -11,7 +11,7 @@ title: "Weightlifting Routine"
 | Barbell OHP (cluster)     |           | 5+4+3 | 1    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
 | Biceps Curls              |           | 10-12 | 1    | Set 2: 3-5s eccentric      |
-| Weighted Dips             |           | 6-8   | 1    |                            |
+| Weighted Dips             |           | 6-8   | 2    |                            |
 
 ## Day 2
 
