@@ -17,9 +17,9 @@ title: "Stretching, Skill Work, and Cardio"
 | Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 2×60s (3-5 shrugs)        |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
-| OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
 | Elev. DF Stretch          | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
 | Loaded Big Toe Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
+| OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
 | Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
 ## Cardio
