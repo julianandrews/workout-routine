@@ -6,9 +6,9 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| DB Lat Raises (cluster)   |           | 8+6+4 | 1    |                            |
-| Bench Press (cluster)     |           | 4+3+2 | 1    |                            |
-| Barbell OHP (cluster)     |           | 5+4+3 | 1    |                            |
+| DB Lat Raises             |           | 8+6+4 | 1    |                            |
+| Bench Press               |           | 4+3+2 | 1    |                            |
+| Barbell OHP               |           | 5+4+3 | 1    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
 | Biceps Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | Weighted Dips             |           | 6-8   | 2    |                            |
@@ -18,7 +18,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| Barbell Squat (cluster)   |           | 4+3+2 | 1    |                            |
+| Barbell Squat             |           | 4+3+2 | 1    |                            |
 | RDLs                      |           | 8-10  | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
