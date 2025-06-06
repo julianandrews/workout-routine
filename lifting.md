@@ -35,5 +35,5 @@ title: "Weightlifting Routine"
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
-| Elev. One-Armed Pushups   |           | 3-5   | 2    | 9" elevation               |
+| One-Armed Pushups         |           | 3-5   | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |

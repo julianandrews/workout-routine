@@ -18,7 +18,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
 | Elev. DF Stretch          | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
 | Loaded Big Toe Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
-| OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
 | Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
 ## Cardio
