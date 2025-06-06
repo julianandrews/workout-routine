@@ -12,7 +12,7 @@ title: "Weightlifting Routine"
 | Ring Face Pulls           |           | 15    | 2    |                            |
 | Biceps Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | Weighted Dips             |           | 6-8   | 2    |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
+| 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
 ## Wednesday
 
@@ -24,7 +24,7 @@ title: "Weightlifting Routine"
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
 | Band-Assisted Nordics     |           | 3-5   | 3    | Set 3: eccentric w/ hold   |
 | Assisted Chins            |           | 6-8   | 1    |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
+| Band Pull-Aparts          |           | 15    | 2    |                            |
 
 ## Friday
 
@@ -36,4 +36,4 @@ title: "Weightlifting Routine"
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | One-Armed Pushups         |           | 3-5   | 2    |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
+| 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
