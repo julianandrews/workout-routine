@@ -10,15 +10,13 @@ title: "Stretching, Skill Work, and Cardio"
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
 | 90-90 Switches            | ☐   |     | ☐   |     | ☐   | 2×6 (per side)            |
+| Squat Holds               | ☐   |     | ☐   |     | ☐   | 30-60s                    |
+| Read Hand Clasp           | ☐   |     | ☐   |     | ☐   | 30-60s                    |
+| Dead Hang                 | ☐   | ☐   | ☐   | ☐   | ☐   | 5×10s                     |
 | Spiderman Lunges          |     | ☐   |     | ☐   |     | 2×6 (per side)            |
-| Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side)            |
+| Paused Cossack Squats     | ☐   |     |     | ☐   |     | 2×5 (per side)            |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
-| Dead Hang w/ shrugs       |     | ☐   |     | ☐   |     | 2×60s (3-5 shrugs)        |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
-| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
-| Elev. DF Stretch          | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
-| Loaded Big Toe Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
-| OAPU GTG                  | ☐   | ☐   | ☐   | ☐   | ☐   | 1-2 (per side)            |
 | Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
 ## Cardio
@@ -27,5 +25,6 @@ title: "Stretching, Skill Work, and Cardio"
 |:-:|:--------------|:------|:------|:------------------------------------|:-:|
 | 1 |               |       |       |                                     | ☐ |
 | 2 |               |       |       |                                     | ☐ |
+| 3 |               |       |       |                                     | ☐ |
 | + |               |       |       |                                     | ☐ |
-| ! | 4x4 C2 HIIT   |       |       |                                     | ☐ |
+| ! |               |       |       |                                     | ☐ |

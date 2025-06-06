@@ -6,34 +6,36 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| DB Lat Raises             |           | 8+6+4 | 1    |                            |
-| Bench Press               |           | 4+3+2 | 1    |                            |
-| Barbell OHP               |           | 5+4+3 | 1    |                            |
-| Ring Face Pulls           |           | 15    | 2    |                            |
-| Biceps Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
-| Weighted Dips             |           | 6-8   | 2    |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
+| Bench Press               |           | 5-8   | 2    |                            |
+| Barbell Rows              |           | 5-8   | 2    |                            |
+| Assisted Chin-Ups         |           | 6-8   | 2    |                            |
+| Knee Pushups              |           | 8-12  | 1    |                            |
+| Band Pull-Aparts          |           | 15    | 2    |                            |
 
-## Wednesday
+## Tuesday
+| Exercise                  | Volume    | Reps  | Sets | Notes                      |
+|:----------|:----|--:|--:|:-----------|
+| Split Squats              |           | 8-12  | 2    | 3-1-1 tempo                |
+| RDLs                      |           | 5-8   | 2    |                            |
+| Half Turkkish Get-ups     |           | 3     | 2    |                            |
+| Barbell OHP               |           | 4-6   | 2    |                            |
+| Ring Face Pulls           |           | 12-15 | 2    |                            |
+
+## Thursday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| Bulgarian Split Squat     |           | 4+3+2 | 1    |                            |
-| RDLs                      |           | 5-6   | 2    |                            |
-| Barbell Rows              |           | 5-6   | 2    |                            |
+| Bench Press               |           | 8-12  | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
-| Band-Assisted Nordics     |           | 3-5   | 3    | Set 3: eccentric w/ hold   |
-| Assisted Chins            |           | 6-8   | 1    |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
+| Assisted Chin-Ups         |           | 6-8   | 2    |                            |
+| Knee Pushups              |           | 8-12  | 1    |                            |
 
 ## Friday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| Bench Press               |           | 10-12 | 3    |                            |
-| Incline Press (15°)       |           | 10-12 | 3    |                            |
-| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
-| Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
-| Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
-| Elev. One-Armed Pushups   |           | 3-5   | 2    | 9" elevation               |
-| 3-Way Band Pull-Aparts    |           | 15    | 4    |                            |
+| Split Squats              |           | 8-12  | 2    | 3-1-1 tempo                |
+| Glute Bridge              |           | 12-15 | 2    | Pause at top               |
+| DB Shoulder Press         |           | 8-12  | 2    |                            |
+| Band Pull-Aparts          |           | 15    | 2    |                            |
+| Half Turkkish Get-ups     |           | 3     | 2    |                            |
