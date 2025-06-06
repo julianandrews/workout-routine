@@ -17,7 +17,7 @@ title: "Weightlifting Routine"
 |:----------|:----|--:|--:|:-----------|
 | Split Squats              |           | 8-12  | 2    | 3-1-1 tempo                |
 | RDLs                      |           | 5-8   | 2    |                            |
-| Half Turkkish Get-ups     |           | 3     | 2    |                            |
+| Half Turkish Get-ups      |           | 3     | 2    |                            |
 | Barbell OHP               |           | 4-6   | 2    |                            |
 | Ring Face Pulls           |           | 12-15 | 2    |                            |
 
@@ -38,4 +38,4 @@ title: "Weightlifting Routine"
 | Glute Bridge              |           | 12-15 | 2    | Pause at top               |
 | DB Shoulder Press         |           | 8-12  | 2    |                            |
 | Band Pull-Aparts          |           | 15    | 2    |                            |
-| Half Turkkish Get-ups     |           | 3     | 2    |                            |
+| Half Turkish Get-ups      |           | 3     | 2    |                            |
