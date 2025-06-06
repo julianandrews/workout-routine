@@ -1,12 +1,4 @@
-# Future Plans
-
-Currently I do OHP/Dip/Curl/Lat Raise twice a week for noob gains. As
-progress slows with those I should cut volume and replace them with exercises
-that will have more overall impact.
-
-- Near term changes
-    - Do some dead hangs w/ suppinated grip for better wrist health.
-    - Start alternating grip on rows for elbow health
+# Notes
 
 ## Goals
 
@@ -17,11 +9,21 @@ that will have more overall impact.
 - Better glutes
 - Front rack flexibility
 
-## Things to test
+## Plans
+
+Currently I do OHP/Dip/Curl/Lat Raise twice a week for noob gains. As
+progress slows with those I should cut volume and replace them with exercises
+that will have more overall impact.
+
+- Near term changes
+    - Do some dead hangs w/ suppinated grip for better wrist health.
+    - Start alternating grip on rows for elbow health
+
+## Tests
 
 - Periodic Pallof press @ 1/2 bodyweight to verify core rotation
 
-## Changes to consider
+## Idea dump
 
 - Ankle mobility options
     - I'm pretty sure I have anterior ankle impingement. The standard banded mobs don't seem to work.
@@ -31,13 +33,6 @@ that will have more overall impact.
     - I should consider Tibialis raises if current plans don't work
 - Banded Lat Smash
     - This is worth looking into - it sounds as if it might address some tightness I have?
-- Switch to Bulgarian Split Squats or Cossack Squats
-    - These should be better for general mobility and functional strength
-    - I'm doing cossack squats as a stretch for now. Should be a good start
-    - I think I should be able to program these as 5+4+3 clusters
-    - If that doesn't work, there are other options
-- Deadlifts in place of (or as well as) RDLs.
-    - I love a heavy Deadlift! But, this doesn't really move me towards any of my goals.
 - Hip thrusts (for glutes)
     - Current routine may just cover it
 - Farmer's Carries (for grip/core)
