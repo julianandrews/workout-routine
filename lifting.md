@@ -10,7 +10,7 @@ title: "Weightlifting Routine"
 | Bench Press               |           | 4+3+2 | 1    |                            |
 | Barbell OHP               |           | 5+4+3 | 1    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
-| Biceps Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
+| Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
