@@ -26,8 +26,10 @@ title: "Travel Routine"
 | Banded Rows                | 12-15 | 3    | 3s eccentric              | ☐ |
 | 3-way Band Pull-Aparts     | 15    | 4    |                           | ☐ |
 
-## Backup Options
+## Backup Exercises
 
-Dips: 3×8-12 Diamond Pushups (elevated if possible)
-Inverted Rows: 3×6-10 One-Arm Towel rows (optionally with weight)
-HSPUs: Handstand holds 2×30s and/or Banded press 3×10 (add scapular shrugs if too easy).
+**Dips → Diamond Pushups (3×8-12)** - Elevate feet if easy.
+
+**Inverted Rows → One-Arm Towel Rows (3×6-10 per arm)** - Add weight if easy
+
+**Inverted Rows → Handstand holds (2×30s) + Banded Press (3×10)** - Scapular shrugs if easy
