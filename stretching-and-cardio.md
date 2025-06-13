@@ -16,9 +16,9 @@ title: "Stretching, Skill Work, and Cardio"
 | Paused Cossack Squats     |     | ☐   |     | ☐   |     | 2×5 (per side)            |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
-| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
 | Elev. DF Stretch          | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
 | Loaded Big Toe Extensions | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
+| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s (w/ toe raise)     |
 | Handstand Pushup GTG play | ☐   | ☐   | ☐   | ☐   | ☐   | 1×1-2                     |
 | Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
