@@ -19,11 +19,14 @@ title: "Stretching, Skill Work, and Cardio"
 
 ## Optional
 
-| Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
-|:------------|:-:|:-:|:-:|:-:|:-:|----------:|
-| Pigeon Pose               | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
-| Sun Salutation B          | ☐   | ☐   | ☐   | ☐   | ☐   | 3 rounds                  |
-| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s                    |
+| Exercise                  | Mon | Tue | Wed | Thu | Fri | Sat | Details                   |
+|:------------|:-:|:-:|:-:|:-:|:-:|:-:|----------:|
+| Sun Salutation B          | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 3 rounds                  |
+| Pigeon Pose               | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
+| Superman Isometric        |     | ☐   |     | ☐   |     | ☐   | 60s                       |
+| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s                    |
+| Butterfly                 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 2×30s                     |
+| Couch Stretch             |     | ☐   |     | ☐   |     | ☐   | 2×30s (per side)          |
 
 ## Cardio
 

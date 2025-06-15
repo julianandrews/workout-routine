@@ -10,6 +10,7 @@ body {
 
 table {
   border-collapse: collapse;
+  width: 100%;
 }
 
 h1, h2 {
@@ -34,4 +35,13 @@ th, td {
 th {
   background-color: #eee;
   font-weight: 600;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+h1, h2 {
+  font-weight: 600;
+  color: #333;
 }
