@@ -7,7 +7,7 @@ title: "Weightlifting Routine"
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
 | DB Lat Raises             |           | 8+6+4 | 1    |                            |
-| Bench Press               |           | 4+3+2 | 1    |                            |
+| Bench Press               |           |    4▲ | 1    |                            |
 | Barbell OHP               |           | 5+4+3 | 1    |                            |
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
@@ -37,3 +37,5 @@ title: "Weightlifting Routine"
 | Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | One-Armed Pushups         |           | 3-5   | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
+
+> ▲ = 3-set cluster ramping down. Increase reps by 1 for progression
