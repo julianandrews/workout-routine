@@ -7,7 +7,7 @@ title: "Weightlifting Routine"
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
 | DB Lat Raises             |           | 8+6+4 | 1    |                            |
-| Bench Press               |           |    4▲ | 1    |                            |
+| Bench Press               |           | 4▲    | 1    |                            |
 | Barbell OHP               |           | 5+4+3 | 1    |                            |
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
