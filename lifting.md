@@ -34,7 +34,7 @@ title: "Weightlifting Routine"
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
-| Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
+| Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
 | One-Armed Pushups         |           | 3-5   | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
