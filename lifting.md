@@ -18,7 +18,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| Bulgarian Split Squat     |           | 4+3+2 | 1    | Glute Bias                 |
+| Bulgarian Split Squat     |           | 4▲    | 1    | Glute Bias                 |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
