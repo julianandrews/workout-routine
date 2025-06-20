@@ -45,3 +45,23 @@ h1, h2 {
   font-weight: 600;
   color: #333;
 }
+
+ul {
+  padding: 0 0.75em;
+  list-style: none;
+  font-size: 0.8em;
+}
+
+li {
+  padding: 5px;
+  margin: 3px 2px;
+  background-color: #eee;
+  border-radius: 8px;
+}
+
+blockquote {
+  background-color: #eee;
+  padding: 2px 5px;
+  border-left: 5px solid black;
+  margin: 1.0em 0em;
+}

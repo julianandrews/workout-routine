@@ -6,7 +6,7 @@ set -euo pipefail
 cd "$(dirname "$0")"
 
 GENERATE_ONLY=0
-PAGES=("lifting" "stretching-and-cardio")
+PAGES=("lifting" "stretching-and-cardio" "vitamins-and-supplements")
 OUTPUT_FILE="/tmp/full-workout.pdf"
 PRINTER="${PRINTER:-}"
 
