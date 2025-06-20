@@ -9,7 +9,7 @@ title: "Weightlifting Routine"
 | Bench Press               |           | 5-8   | 2    |                            |
 | Barbell Rows              |           | 5-8   | 2    |                            |
 | Assisted Chin-Ups         |           | 6-8   | 2    |                            |
-| Knee Pushups              |           | 8-12  | 1    |                            |
+| Hungarian Pushups         |           | 8-12  | 1    |                            |
 | Band Pull-Aparts          |           | 15    | 2    |                            |
 
 ## Tuesday
@@ -28,7 +28,7 @@ title: "Weightlifting Routine"
 | Bench Press               |           | 8-12  | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
 | Assisted Chin-Ups         |           | 6-8   | 2    |                            |
-| Knee Pushups              |           | 8-12  | 1    |                            |
+| Hungarian Pushups         |           | 8-12  | 1    |                            |
 
 ## Friday
 
