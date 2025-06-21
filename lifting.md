@@ -12,6 +12,7 @@ title: "Weightlifting Routine"
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
 | Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
+| One-Armed Pushups         |           | 5     | 1    |                            |
 
 ## Wednesday
 
@@ -35,7 +36,6 @@ title: "Weightlifting Routine"
 | Ring Flys                 |           | 10-12 | 1    |                            |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
-| One-Armed Pushups         |           | 5     | 1    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
 > ▲ = 3-set cluster ramping down. Increase reps by 1 for progression
