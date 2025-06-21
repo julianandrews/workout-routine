@@ -35,7 +35,7 @@ title: "Weightlifting Routine"
 | Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
-| One-Armed Pushups         |           | 3-5   | 2    |                            |
+| One-Armed Pushups         |           | 5     | 1    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
 > ▲ = 3-set cluster ramping down. Increase reps by 1 for progression
