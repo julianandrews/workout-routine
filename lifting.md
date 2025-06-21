@@ -12,7 +12,6 @@ title: "Weightlifting Routine"
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | Ring Face Pulls           |           | 15    | 2    |                            |
 | Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
-| 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
 ## Wednesday
 
