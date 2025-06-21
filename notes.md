@@ -1,30 +1,30 @@
 # Notes
 
+## Near term changes
+
+- Add a set of assisted chin-ups as soon as I have a week with no elbow issues.
+- Do some dead hangs w/ supinated grip for better wrist health.
+
 ## Goals
 
-- Third world squats
-- Shoulder stretch (hands clasped behind back)
-- One armed push-ups
-- Real unassisted pull-ups!
-- Better glutes
-- Front rack flexibility
-
-## Plans
-
-Currently I do OHP/Dip/Curl/Lat Raise twice a week for noob gains. As
-progress slows with those I should cut volume and replace them with exercises
-that will have more overall impact.
-
-- Near term changes
-    - Do some dead hangs w/ suppinated grip for better wrist health.
-    - Start alternating grip on rows for elbow health
-
-## Tests
-
-- Periodic Pallof press @ 1/2 bodyweight to verify core rotation
+- Upper body
+    - Currently: pec/delt/biceps push.
+    - Next: reduce volume & weight loss
+    - Eventually:
+        - Real unassisted pull-ups!
+- Lower Body
+    - Currently: Bulgarian Split squts
+    - Next: Glute hypertrophy
+- Mobility & Skill work
+    - Currently: ankle mobilty push, handstand pushups
+    - Eventually:
+        - Shoulder stretch mobility (hands clasped behind back)
+        - Front rack flexibility
+        - Planche pushup progression
 
 ## Idea dump
 
+- Start alternating grip on rows for elbow health
 - Ankle mobility options
     - I'm pretty sure I have anterior ankle impingement. The standard banded mobs don't seem to work.
     - https://www.youtube.com/watch?v=3Trl4JWKWjc
@@ -40,7 +40,7 @@ that will have more overall impact.
 - Calf raises, Calf stretches
     - My calves seem fine? So much DDR with so much weight...
 - Core
-    - I'm not sure I really need dedicated core work
+    - I'm not sure I really need dedicated core work, but some anti-rotation work might be useful
     - Hanging Leg Raises
     - Palloff Press (for core rotation)
     - Suitcase carries (obliques, could add to lower body day)
