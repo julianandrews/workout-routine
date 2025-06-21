@@ -32,7 +32,8 @@ title: "Weightlifting Routine"
 |:----------|:----|--:|--:|:-----------|
 | Bench Press               |           | 10-12 | 3    |                            |
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
-| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
+| Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
+| Ring Flys                 |           | 10-12 | 1    |                            |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
 | One-Armed Pushups         |           | 5     | 1    |                            |
