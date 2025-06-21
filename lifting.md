@@ -22,7 +22,7 @@ title: "Weightlifting Routine"
 | RDLs                      |           | 5-6   | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
-| Band-Assisted Nordics     |           | 3-5   | 3    | Set 3: eccentric w/ hold   |
+| Band-Assisted Nordics     |           | 5     | 3    | Set 3: eccentric w/ hold   |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 | Band Pull-Aparts          |           | 15    | 2    |                            |
 
