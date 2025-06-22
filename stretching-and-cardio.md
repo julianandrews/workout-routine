@@ -27,6 +27,10 @@ title: "Stretching, Skill Work, and Cardio"
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 30-60s                    |
 | Butterfly                 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 2×30s                     |
 | Couch Stretch             |     | ☐   |     | ☐   |     | ☐   | 2×30s (per side)          |
+| Dip Hold                  | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 2×30s                     |
+| Foam Roll                 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | To taste                  |
+| Sit-Thrus                 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 2x5 (per side)            |
+| Back Bend                 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 1                         |
 
 ## Cardio
 
