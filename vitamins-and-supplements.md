@@ -5,17 +5,17 @@ title: "Vitamins & Suplements"
 ## Vitamins
 
 | Supplement                | # Pills | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|:------------|:-----|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Ovarian Bloom (Pink)      | 3 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
-| Peak Prenatal (Blue)      | 3 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
-| Fish Oil                  | 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
-| Vitamin D-3 (2000 IU)     | 2 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
-| Ubiquinol (CoQ10) 100mg   | 3 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
-| Vitamin E 450mg           | 1 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
-| Melatonin 3mg             | 1 | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
-| Vitamin C                 | ? | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
-| Metformin ???             | ? | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
-| Resveratrol ???           | ? | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
+|:------------|:---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Ovarian Bloom (Pink)      | 3 3 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Peak Prenatal (Blue)      | 3 3 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Ubiquinol (CoQ10) 100mg   | 2 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Fish Oil                  | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Metformin 500mg           | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Resveratrol 500mg         | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Vitamin D-3 (2000 IU)     | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Vitamin E 450mg           | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
+| Melatonin 3mg             | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
+| Vitamin C 500mg           | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
 
 ## Recommended Supplements
 
