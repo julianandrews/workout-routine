@@ -6,7 +6,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| DB Lat Raises             |           | 8+6+4 | 1    |                            |
+| DB Lat Raises             |           | 8▲▲   | 1    |                            |
 | Bench Press               |           | 4▲    | 1    |                            |
 | Barbell OHP               |           | 5+4+3 | 1    |                            |
 | Weighted Dips             |           | 6-8   | 2    |                            |
@@ -38,4 +38,5 @@ title: "Weightlifting Routine"
 | Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
-> ▲ = 3-set cluster ramping down. Increase reps by 1 for progression
+> ▲ = 3-set cluster ramping down by 1. Increase reps by 1 for progression  
+> ▲▲ = 3-set cluster ramping down by 2. Increase reps by 1 for progression
