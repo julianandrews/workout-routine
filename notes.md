@@ -21,6 +21,7 @@
         - Shoulder stretch mobility (hands clasped behind back)
         - Front rack flexibility
         - Planche pushup progression
+        - Handstand progression
 
 ## Idea dump
 
