@@ -18,7 +18,8 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:----------|:----|--:|--:|:-----------|
-| Bulgarian Split Squat     |           | 4▲    | 1    | Glute Bias                 |
+| Banded BSS                |           | 8-10  | 1    |                            |
+| Bulgarian Split Squat     |           | 8-10  | 2    | Glute Bias                 |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
 | Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
@@ -33,6 +34,7 @@ title: "Weightlifting Routine"
 | Bench Press               |           | 10-12 | 3    |                            |
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
 | Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
+| Bodyweight BSS            |           | 8-10  | 2    | 3-0-1 tempo                |
 | Ring Flys                 |           | 10-12 | 1    |                            |
 | Ring Rear Delt Rows       |           | 10-12 | 2    |                            |
 | Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
