@@ -21,7 +21,7 @@ title: "Travel Routine"
 | Cossack Squats             | 5-8   | 3    | Play with pauses/tempo    | ☐ |
 | Banded Single-Leg RDLs     | 10    | 3    | 3s eccentric              | ☐ |
 | Archer Pushups             | 10    | 2    |                           | ☐ |
-| Single-Leg Assisted HSPUs  | 5-12  | 3    |                           | ☐ |
+| Wall Handstand Pushups     | 5-12  | 3    |                           | ☐ |
 | Banded Lateral Raises      | 15    | 3    |                           | ☐ |
 | Banded Rows                | 12-15 | 3    | 3s eccentric              | ☐ |
 | 3-way Band Pull-Aparts     | 15    | 4    |                           | ☐ |
