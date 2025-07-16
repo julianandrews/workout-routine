@@ -7,7 +7,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |:------------|:-:|:-:|:-:|:-:|:-:|----------:|
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
-| Spiderman Lunges          | ☐   |     | ☐   |     |     | 2×6 (per side)            |
+| Spiderman Rocks           | ☐   |     | ☐   |     |     | 1×8 (per side)            |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
 | Paused Cossack Squats     | ☐   |     | ☐   |     |     | 2×5 (per side)            |
 | Banded Tibialis Raises    | ☐   |     | ☐   |     | ☐   | 3×12-15 (per side)        |
