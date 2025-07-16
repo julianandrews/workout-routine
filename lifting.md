@@ -18,7 +18,7 @@ title: "Travel Routine"
 
 | Exercise                   | Reps  | Sets | Details                   | ☐ |
 |:----------|--:|--:|:----------|:-:|
-| Cossack Squats             | 5-8   | 3    | Play with pauses/tempo    | ☐ |
+| Banded BSS                 | 10    | 3    | Glute bias                | ☐ |
 | Banded Single-Leg RDLs     | 10    | 3    | 3s eccentric              | ☐ |
 | Archer Pushups             | 10    | 2    |                           | ☐ |
 | Wall Handstand Pushups     | 5-12  | 3    |                           | ☐ |
