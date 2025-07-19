@@ -11,11 +11,11 @@ title: "Vitamins & Suplements"
 | Ubiquinol (CoQ10) 100mg   | 2 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
 | Fish Oil                  | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
 | Metformin 500mg           | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
-| Resveratrol 500mg         | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
 | Vitamin D-3 (2000 IU)     | 1 1 | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ | ☐ ☐ |
+| Resveratrol 1000mg        | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
+| Vitamin C 500mg           | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
 | Vitamin E 450mg           | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
 | Melatonin 3mg             | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
-| Vitamin C 500mg           | 1   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   |
 
 ## Recommended Supplements
 
