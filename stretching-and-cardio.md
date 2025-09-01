@@ -18,6 +18,11 @@ title: "Stretching, Skill Work, and Cardio"
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (w/ toe taps)         |
+
+## Optional
+
+| Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
+|:------------|:-:|:-:|:-:|:-:|:-:|----------:|
 | Handstand Pushup GTG play | ☐   | ☐   | ☐   | ☐   | ☐   | 1×1-2                     |
 | Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
