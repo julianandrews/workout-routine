@@ -17,7 +17,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Banded Tibialis Raises    | ☐   | ☐   | ☐   | ☐   | ☐   | 1x15 (per side)           |
-| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 3x60s (w/ toe taps)       |
+| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 2x90s (w/ toe taps)       |
 
 ## Optional
 
