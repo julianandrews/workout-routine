@@ -21,7 +21,7 @@ title: "Weightlifting Routine"
 | Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias (start @135lbs) |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
-| Ring Rows                 |           | 10-12 | 2    | 2-1-2 tempo                |
+| Weighted Ring Rows        |           | 10-12 | 2    | 2-1-2 tempo                |
 | Band-Assisted Nordics     |           | 5     | 3    | Set 3: eccentric w/ hold   |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 | Band Pull-Aparts          |           | 15    | 2    |                            |
