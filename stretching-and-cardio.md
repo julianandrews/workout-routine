@@ -16,8 +16,9 @@ title: "Stretching, Skill Work, and Cardio"
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
-| Banded Tibialis Raises    | ☐   | ☐   | ☐   | ☐   | ☐   | 1x15 (per side)           |
-| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 2x90s (w/ toe taps)       |
+| Banded Tibialis Raises    | ☐   | ☐   | ☐   | ☐   | ☐   | 1×15 (per side)           |
+| Squat Holds               | ☐   | ☐   | ☐   | ☐   | ☐   | 1×90s (w/ toe taps)       |
+| Calf Stretch              | ☐   | ☐   | ☐   | ☐   | ☐   | 1×45s (per side)          |
 
 ## Optional
 
