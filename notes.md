@@ -2,7 +2,6 @@
 
 ## Near term changes
 
-- Add a set of assisted chin-ups as soon as I have a week with no elbow issues.
 - Do some dead hangs w/ supinated grip for better wrist health.
 
 ## Goals
@@ -13,15 +12,15 @@
     - Eventually:
         - Real unassisted pull-ups!
 - Lower Body
-    - Currently: Bulgarian Split squts
+    - Currently: Bulgarian Split squats
     - Next: Glute hypertrophy
 - Mobility & Skill work
-    - Currently: ankle mobilty push, handstand pushups
+    - Currently: ankle mobilty push
     - Eventually:
         - Shoulder stretch mobility (hands clasped behind back)
         - Front rack flexibility
         - Planche pushup progression
-        - Handstand progression
+        - Handstand progression & handstand pushups
 
 ## Idea dump
 
@@ -38,7 +37,7 @@
     - Current routine may just cover it
 - Farmer's Carries (for grip/core)
     - Volume RDLs + Dead hangs should really do it for grip strength
-- Calf raises, Calf stretches
+- Calf raises
     - My calves seem fine? So much DDR with so much weight...
 - Core
     - I'm not sure I really need dedicated core work, but some anti-rotation work might be useful
