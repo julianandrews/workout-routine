@@ -5,7 +5,7 @@ title: "Weightlifting Routine"
 ## Monday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:----------|:----|--:|--:|:-----------|
+|:---------|:-----|--:|--:|:-------------|
 | DB Lat Raises             |           | 8▲▲   | 1    |                            |
 | Bench Press               |           | 4▲    | 1    |                            |
 | Barbell OHP               |           | 5▲    | 1    |                            |
@@ -17,7 +17,7 @@ title: "Weightlifting Routine"
 ## Wednesday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:----------|:----|--:|--:|:-----------|
+|:---------|:-----|--:|--:|:-------------|
 | Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias (start @135lbs) |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Barbell Rows              |           | 5-6   | 2    |                            |
@@ -29,7 +29,7 @@ title: "Weightlifting Routine"
 ## Friday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:----------|:----|--:|--:|:-----------|
+|:---------|:-----|--:|--:|:-------------|
 | Bench Press               |           | 10-12 | 3    |                            |
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
 | Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
