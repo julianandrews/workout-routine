@@ -16,7 +16,7 @@ title: "Weightlifting Routine"
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |:---------|:-----|--:|--:|:-------------|
-| Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias (start @135lbs) |
+| Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias                 |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Band-Assisted Nordics     |           | 5     | 3    |                            |
 
