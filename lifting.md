@@ -11,7 +11,6 @@ title: "Weightlifting Routine"
 | Barbell OHP               |           | 5▲    | 1    |                            |
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | Banded Face Pulls         |           | 12-15 | 2    |                            |
-| Hammer Curls              |           | 10-12 | 2    | Set 2: 3-5s eccentric      |
 | One-Armed Pushups         |           | 5     | 1    |                            |
 
 ## Wednesday
