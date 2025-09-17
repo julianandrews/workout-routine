@@ -32,7 +32,6 @@ title: "Weightlifting Routine"
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
 | Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
 | Incline DB Rear Delt Flys |           | 12-15 | 2    | 2-1-2-1 tempo              |
-| Curls                     |           | 10-12 | 2    | 2-0-2 tempo                |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 
 > ▲ = 3-set cluster ramping down by 1. Increase reps by 1 for progression  
