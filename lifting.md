@@ -19,6 +19,7 @@ title: "Weightlifting Routine"
 | Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias                 |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Band-Assisted Nordics     |           | 5     | 3    |                            |
+| Wrist Extensions          |           | 15-20 | 2    | 2-0-3-0 tempo              |
 
 ## Thursday
 
