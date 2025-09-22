@@ -24,6 +24,8 @@
 
 ## Idea dump
 
+- Thoracic rotation
+    - Consider adding load at the end of range for the bretzel by pulling against a resistance band
 - Start alternating grip on rows for elbow health
 - Ankle mobility options
     - I'm pretty sure I have anterior ankle impingement. The standard banded mobs don't seem to work.
