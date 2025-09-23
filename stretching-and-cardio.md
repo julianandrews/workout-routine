@@ -12,7 +12,6 @@ title: "Stretching, Skill Work, and Cardio"
 | Paused Cossack Squats     | ☐   |     | ☐   |     |     | 2×5 (per side)            |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Dead Hang w/ shrugs       |     |     |     |     | ☐   | 1×60s (3-5 shrugs)        |
-| 90-90 Stretch             |     | ☐   |     | ☐   |     | 45s (per side)            |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
