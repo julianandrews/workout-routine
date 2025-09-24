@@ -11,7 +11,7 @@ title: "Stretching, Skill Work, and Cardio"
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
 | Paused Cossack Squats     | ☐   |     | ☐   |     |     | 2×5 (per side)            |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
-| Dead Hang w/ shrugs       |     |     |     |     | ☐   | 1×60s (3-5 shrugs)        |
+| Dead Hang w/ shrugs       |     | ☐   |     |     | ☐   | 1×45s (5+ shrugs)         |
 | Neck CARs                 |     | ☐   |     | ☐   |     | 5 (per side)              |
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
