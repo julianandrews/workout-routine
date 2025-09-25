@@ -1,34 +1,24 @@
-# Workout Routine PDF Generator
+# Workout Worksheets
 
-This repository contains a Markdown file (`workout-routine.md`) and a CSS file (`workout-routine.css`) for generating a printable PDF of a workout routine. The PDF is generated using `pandoc` and `weasyprint`.
+Weekly fitness worksheets generated using [worksheet-generator](https://github.com/julianandrews/worksheet-generator).
 
-## Prerequisites
-
-To generate the PDF, you need the following tools installed:
-
-1. **Pandoc**: A universal document converter.
-2. **WeasyPrint**: A tool for converting HTML/CSS to PDF.
-
-### Installation on Ubuntu/Debian
-
-Run the following commands to install the required tools:
+## Usage
 
 ```bash
-# Install pandoc
-sudo apt update
-sudo apt install pandoc weasyprint
+# Generate and print this week's workout
+worksheet-generator config.yaml
 ```
 
-## Generating the PDF and Printing
-
-To print, navigate to the repository directory and run:
+## Generate PDF without printing (for preview/backup)
 
 ```bash
-./print.sh
+worksheet-generator --generate-only config.yaml
 ```
 
-Generate the PDF without printing, navigate to the repository directory and run:
+## Weekly Workflow
 
-```bash
-./print.sh --generate-only
-```
+1. Update the markdown files with any changes
+2. Commit and push changes
+3. Run `worksheet-generator config.yaml`
+
+That's it! The tool handles PDF generation, printing, and cleanup automatically.
