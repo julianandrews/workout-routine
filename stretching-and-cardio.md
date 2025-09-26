@@ -1,11 +1,9 @@
----
-title: "Stretching, Skill Work, and Cardio"
----
+# Stretching, Skill Work, and Cardio
 
 ## Stretching and Skill Work
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
-|:------------|:-:|:-:|:-:|:-:|:-:|----------:|
+|---------------------------|-----|-----|-----|-----|-----|---------------------------|
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | Spiderman Rocks           | ☐   |     | ☐   |     |     | 1×8 (per side)            |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
@@ -20,14 +18,14 @@ title: "Stretching, Skill Work, and Cardio"
 ## Optional
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
-|:------------|:-:|:-:|:-:|:-:|:-:|----------:|
+|---------------------------|-----|-----|-----|-----|-----|---------------------------|
 | Handstand Pushup GTG play | ☐   | ☐   | ☐   | ☐   | ☐   | 1×1-2                     |
 | Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
 
 ## Cardio
 
 | # | Activity      | Range | Time  | Notes                               | ✓ |
-|:-:|:--------------|:------|:------|:------------------------------------|:-:|
+|---|---------------|-------|-------|-------------------------------------|---|
 | 1 |               |       |       |                                     | ☐ |
 | 2 |               |       |       |                                     | ☐ |
 | + |               |       |       |                                     | ☐ |

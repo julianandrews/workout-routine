@@ -1,0 +1,28 @@
+#!/bin/sh
+
+# Get the directory where this script is located
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+OUTPUT_FILE="/tmp/workout.pdf"
+GENERATE_ONLY=false
+
+# Parse arguments
+for arg in "$@"; do
+    case $arg in
+        --generate-only)
+            GENERATE_ONLY=true
+            shift
+            ;;
+    esac
+done
+
+# Generate PDF
+worksheet-generator "$SCRIPT_DIR/config.yaml" -o "$OUTPUT_FILE"
+
+if [ "$GENERATE_ONLY" = false ]; then
+    # Print two-sided
+    lp -o sides=two-sided-long-edge "$OUTPUT_FILE"
+    
+    # Clean up
+    rm -f "$OUTPUT_FILE"
+    echo "✓ Worksheets printed and cleaned up"
+fi

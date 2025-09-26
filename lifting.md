@@ -1,11 +1,9 @@
----
-title: "Weightlifting Routine"
----
+# Weightlifting Routine
 
 ## Monday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:---------|:-----|--:|--:|:-------------|
+|---------------------------|-----------|-------|------|----------------------------|
 | Bench Press               |           | 4▲    | 1    |                            |
 | Barbell OHP               |           | 5▲    | 1    |                            |
 | DB Lat Raises             |           | 8▲▲   | 1    |                            |
@@ -15,7 +13,7 @@ title: "Weightlifting Routine"
 ## Tuesday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:---------|:-----|--:|--:|:-------------|
+|---------------------------|-----------|-------|------|----------------------------|
 | Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias                 |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Band-Assisted Nordics     |           | 5     | 3    |                            |
@@ -24,7 +22,7 @@ title: "Weightlifting Routine"
 ## Thursday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:---------|:-----|--:|--:|:-------------|
+|---------------------------|-----------|-------|------|----------------------------|
 | Bench Press               |           | 10-12 | 3    |                            |
 | Incline Press (15°)       |           | 10-12 | 3    |                            |
 | Weighted Ring Rows        |           | 10-12 | 2    | 2-1-2 tempo                |
@@ -34,7 +32,7 @@ title: "Weightlifting Routine"
 ## Friday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|:---------|:-----|--:|--:|:-------------|
+|---------------------------|-----------|-------|------|----------------------------|
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
 | Incline DB Rear Delt Flys |           | 12-15 | 2    | 2-1-2-1 tempo              |

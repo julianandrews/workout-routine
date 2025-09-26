@@ -2,4 +2,4 @@ pages:
   - lifting.md
   - stretching-and-cardio.md
 stylesheet: styles.css
-lp_options: "-o sides=two-sided-long-edge"
+output_file: /tmp/workout.pdf
