@@ -1,11 +1,9 @@
----
-title: "Stretching, Skill Work, and Cardio"
----
+# Stretching, Skill Work, and Cardio
 
 ## Stretching and Skill Work
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
-|:------------|:-:|:-:|:-:|:-:|:-:|----------:|
+|---------------------------|-----|-----|-----|-----|-----|---------------------------|
 | Wall Angels               | ☐   |     |     |     | ☐   | 2×8                       |
 | Shoulder CARs             | ☐   |     |     |     | ☐   | 1×4 (per side)            |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
@@ -20,7 +18,7 @@ title: "Stretching, Skill Work, and Cardio"
 ## Optional
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Sat | Details                   |
-|:------------|:-:|:-:|:-:|:-:|:-:|:-:|----------:|
+|---------------------------|-----|-----|-----|-----|-----|-----|---------------------------|
 | Sun Salutation B          | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 3 rounds                  |
 | Pigeon Pose               | ☐   | ☐   | ☐   | ☐   | ☐   | ☐   | 60s (per side)            |
 | Superman Isometric        |     | ☐   |     | ☐   |     | ☐   | 60s                       |
@@ -35,7 +33,7 @@ title: "Stretching, Skill Work, and Cardio"
 ## Cardio
 
 | # | Activity      | Range | Time  | Notes                               | ✓ |
-|:-:|:--------------|:------|:------|:------------------------------------|:-:|
+|---|---------------|-------|-------|-------------------------------------|---|
 | 1 |               |       |       |                                     | ☐ |
 | 2 |               |       |       |                                     | ☐ |
 | 3 |               |       |       |                                     | ☐ |
