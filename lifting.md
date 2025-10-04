@@ -7,7 +7,7 @@
 | Bench Press               |           | 4▲    | 1    |                            |
 | Barbell OHP               |           | 5▲    | 1    |                            |
 | DB Lat Raises             |           | 8▲▲   | 1    |                            |
-| Barbell Rows              |           | 5-6   | 2    |                            |
+| Barbell Rows              |           | 5-6   | 2    | Underhand Grip             |
 
 ## Tuesday
 
