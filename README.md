@@ -6,19 +6,19 @@ Weekly fitness worksheets generated using [worksheet-generator](https://github.c
 
 ```bash
 # Generate and print this week's workout
-worksheet-generator config.yaml
+./print
 ```
 
 ## Generate PDF without printing (for preview/backup)
 
 ```bash
-worksheet-generator --generate-only config.yaml
+./print --generate-only
 ```
 
 ## Weekly Workflow
 
 1. Update the markdown files with any changes
 2. Commit and push changes
-3. Run `worksheet-generator config.yaml`
+3. Run the `print` script.
 
 That's it! The tool handles PDF generation, printing, and cleanup automatically.
