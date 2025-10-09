@@ -13,6 +13,7 @@
 | Neck CARs                 |     |     |     | ☐   |     | 5 (per side)              |
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
+| Forearm Flexor Stretch    |     | ☐   |     | ☐   |     | 30s (per side)            |
 | Squat Rocks               | ☐   | ☐   |     | ☐   | ☐   | 2×60s                     |
 
 ## Optional
