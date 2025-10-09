@@ -8,6 +8,7 @@
 | Barbell OHP               |           | 5▲    | 1    |                            |
 | DB Lat Raises             |           | 8▲▲   | 1    |                            |
 | Barbell Rows              |           | 5-6   | 2    | Underhand Grip             |
+| Assisted Chins            |           | 6-8   | 1    |                            |
 
 ## Tuesday
 
