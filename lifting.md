@@ -5,9 +5,9 @@
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
 | Bench Press               |           | 4▲    | 1    |                            |
-| Barbell OHP               |           | 5▲    | 1    |                            |
+| DB OHP                    |           | 5▲    | 1    |                            |
 | DB Lat Raises             |           | 8▲▲   | 1    |                            |
-| Barbell Rows              |           | 5-6   | 2    | Underhand Grip             |
+| DB Rows                   |           | 5-6   | 2    |                            |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 
 ## Tuesday
@@ -23,8 +23,8 @@
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
-| Bench Press               |           | 10-12 | 2    |                            |
-| Incline Press (15°)       |           | 10-12 | 2    |                            |
+| DB Bench Press            |           | 10-12 | 2    |                            |
+| DB Incline Press (15°)    |           | 10-12 | 2    |                            |
 | Weighted Ring Rows        |           | 10-12 | 2    | 2-1-2 tempo                |
 | Banded Face Pulls         |           | 12-15 | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
