@@ -23,8 +23,8 @@
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
-| DB Bench Press            |           | 10-12 | 2    |                            |
-| DB Incline Press (15°)    |           | 10-12 | 2    |                            |
+| DB Bench Press            |           | 10-12 | 1    |                            |
+| DB Incline Press (15°)    |           | 10-12 | 1    |                            |
 | Weighted Ring Rows        |           | 10-12 | 2    | 2-1-2 tempo                |
 | Banded Face Pulls         |           | 12-15 | 2    |                            |
 | 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
