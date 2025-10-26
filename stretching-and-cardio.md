@@ -10,7 +10,7 @@
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Dead Hang w/ shrugs       |     | ☐   |     |     | ☐   | 1×45s (5+ shrugs)         |
 | Shoulder CARs             |     |     |     |     | ☐   | 1×4 (per side)            |
-| Neck CARs                 |     |     |     |     | ☐   | 5 (per side)              |
+| Elbow CARs                |     |     |     |     | ☐   | 1×5 (per side)            |
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Forearm Flexor Stretch    |     | ☐   |     | ☐   |     | 30s (per side)            |
