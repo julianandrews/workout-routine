@@ -4,8 +4,6 @@
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
-| Banded Face Pulls         |           | 12-15 | 2    |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | 3    | 1 regular, 1 low, 1 high   |
 | Wrist Extensions          |           | 15-20 | 2    | 2-0-3-0 tempo              |
 
 ## Wednesday
@@ -20,7 +18,6 @@
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
-| Seated DB Lat Raises      |           | 10-12 | 2    | 3-0-1 tempo (light)        |
 | Incline DB Rear Delt Flys |           | 12-15 | 2    | 2-1-2-1 tempo              |
 | Wrist Extensions          |           | 15-20 | 2    | 2-0-3-0 tempo              |
 
