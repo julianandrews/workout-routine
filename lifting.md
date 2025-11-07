@@ -4,15 +4,22 @@
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
+| DB Rows                   |           | 5-6   | 2    |                            |
 | Wrist Extensions          |           | 15-20 | 2    | 2-0-3-0 tempo              |
 
-## Wednesday
+## Tuesday
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
 | Bulgarian Split Squat     |           | 6-8   | 2    | Glute Bias                 |
 | RDLs                      |           | 5-6   | 2    |                            |
 | Band-Assisted Nordics     |           | 5     | 3    |                            |
+
+## Thursday
+
+|---------------------------|-----------|-------|------|----------------------------|
+| DB Bench Press            |           | 10-12 | 2    |                            |
+| DB Incline Press (15°)    |           | 10-12 | 2    |                            |
 
 ## Friday
 
