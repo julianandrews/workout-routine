@@ -17,6 +17,7 @@
 
 ## Thursday
 
+| Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
 | DB Bench Press            |           | 10-12 | 2    |                            |
 | DB Incline Press (15°)    |           | 10-12 | 2    |                            |
