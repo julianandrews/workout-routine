@@ -5,8 +5,8 @@
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |---------------------------|-----|-----|-----|-----|-----|---------------------------|
 | Paused Cossack Squats     | ☐   |     | ☐   |     |     | 2×5 (per side)            |
-| Weighted Ankle Mobs       | ☐   |     | ☐   |     | ☐   | 2×30-45s (per side)       |
 | Tibialis Raises           | ☐   |     | ☐   |     | ☐   | 2×15 (per side)           |
+| Weighted Ankle Mobs       | ☐   |     | ☐   |     | ☐   | 2×30-45s (per side)       |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
 | Spiderman Rocks           | ☐   |     | ☐   |     |     | 1×8 (per side)            |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
