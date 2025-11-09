@@ -1,8 +1,8 @@
 # Weightlifting Routine
 
-## Week of November 3, 2025
+## Week of: ________________________
 
-## Monday
+## Upper Intensity
 
 | Exercise                  | Volume     | Reps  | Sets | Notes                      |
 |---------------------------|------------|-------|------|----------------------------|
@@ -12,7 +12,7 @@
 | Knee Pushups              | 11         | 8-12  | 1    |                            |
 | Band Pull-Aparts          | 10@Red     | 10-15 | 2    |                            |
 
-## Tuesday
+## Lower Intensity
 | Exercise                  | Volume     | Reps  | Sets | Notes                      |
 |---------------------------|------------|-------|------|----------------------------|
 | Barbell Squats            | 5@90 lbs   | 5-6   | 2    |                            |
@@ -20,7 +20,7 @@
 | Turkish Get-ups           | 3@15 lbs   | 3     | 2    |                            |
 | DB Shoulder Press         | 5@20 lbs   | 5-6   | 2    |                            |
 
-## Thursday
+## Upper Volume
 
 | Exercise                  | Volume     | Reps  | Sets | Notes                      |
 |---------------------------|------------|-------|------|----------------------------|
@@ -29,7 +29,7 @@
 | Knee Pushups              | 11         | 8-12  | 1    |                            |
 | Band Pull-Aparts          | 11@Red     | 15    | 2    |                            |
 
-## Friday
+## Lower Volume
 
 | Exercise                  | Volume     | Reps  | Sets | Notes                      |
 |---------------------------|------------|-------|------|----------------------------|
