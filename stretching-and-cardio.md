@@ -16,6 +16,7 @@
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
 | Forearm Flexor Stretch    |     | ☐   |     | ☐   |     | 30s (per side)            |
+| Wrist Extensions          | ☐   | ☐   | ☐   | ☐   | ☐   | 2×10 (3-0-5-0 tempo)      |
 
 ## Optional
 
