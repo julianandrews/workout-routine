@@ -2,7 +2,7 @@
 
 ## Stretching and Skill Work
 
-| Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
+| Exercise                  |     |     |     |     |     | Details                   |
 |---------------------------|-----|-----|-----|-----|-----|---------------------------|
 | Wall Angels               | ☐   |     |     |     | ☐   | 2×8                       |
 | Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
@@ -16,7 +16,7 @@
 
 ## Optional
 
-| Exercise                  | Mon | Tue | Wed | Thu | Fri | Sat | Details                   |
+| Exercise                  |     |     |     |     |     |     | Details                   |
 |---------------------------|-----|-----|-----|-----|-----|-----|---------------------------|
 | Sun Salutation B          |     |     |     |     |     |     | 3 rounds                  |
 | Pigeon Pose               |     |     |     |     |     |     | 60s (per side)            |
