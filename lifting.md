@@ -15,10 +15,10 @@
 ## Lower Intensity
 | Exercise                  | Volume     | Reps  | Sets | Notes                      |
 |---------------------------|------------|-------|------|----------------------------|
-| Barbell Squats            | 5@90 lbs   | 5-6   | 2    |                            |
-| RDLs                      | 8@87.5 lbs | 5-8   | 2    |                            |
+| Barbell Squats            | 6@90 lbs   | 5-6   | 2    |                            |
+| RDLs                      | 8@90 lbs   | 5-8   | 2    |                            |
 | Turkish Get-ups           | 3@15 lbs   | 3     | 2    |                            |
-| DB Shoulder Press         | 5@20 lbs   | 5-6   | 2    |                            |
+| DB Shoulder Press         | 5@22.5 lbs | 5-6   | 2    |                            |
 
 ## Upper Volume
 
@@ -26,7 +26,7 @@
 |---------------------------|------------|-------|------|----------------------------|
 | Bench Press               | 10@70 lbs  | 8-12  | 2    |                            |
 | Assisted Chin-Ups         | 7@Green 15 | 6-8   | 2    |                            |
-| Knee Pushups              | 11         | 8-12  | 1    |                            |
+| Pushups                   |            | 8-12  | 1    |                            |
 | Band Pull-Aparts          | 11@Red     | 15    | 2    |                            |
 
 ## Lower Volume

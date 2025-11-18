@@ -76,7 +76,7 @@ th {
 .stretching-and-skill-work table td:nth-child(1),
 .optional table th:nth-child(1),
 .optional table td:nth-child(1) {
-    width: 29%;
+    width: 23%;
 }
 
 .stretching-and-skill-work table th:nth-child(2),
@@ -89,6 +89,10 @@ th {
 .stretching-and-skill-work table td:nth-child(5),
 .stretching-and-skill-work table th:nth-child(6),
 .stretching-and-skill-work table td:nth-child(6),
+.stretching-and-skill-work table th:nth-child(7),
+.stretching-and-skill-work table td:nth-child(7),
+.stretching-and-skill-work table th:nth-child(8),
+.stretching-and-skill-work table td:nth-child(8),
 .optional table th:nth-child(2),
 .optional table td:nth-child(2),
 .optional table th:nth-child(3),
@@ -100,16 +104,18 @@ th {
 .optional table th:nth-child(6),
 .optional table td:nth-child(6),
 .optional table th:nth-child(7),
-.optional table td:nth-child(7) {
+.optional table td:nth-child(7),
+.optional table th:nth-child(8),
+.optional table td:nth-child(8) {
     text-align: center;
     width: 6%;
 }
 
-.stretching-and-skill-work table th:nth-child(8),
-.stretching-and-skill-work table td:nth-child(8),
-.optional table th:nth-child(8),
-.optional table td:nth-child(8) {
-    width: 35%;
+.stretching-and-skill-work table th:nth-child(9),
+.stretching-and-skill-work table td:nth-child(9),
+.optional table th:nth-child(9),
+.optional table td:nth-child(9) {
+    width: 29%;
 }
 
 .cardio table th:nth-child(1),
