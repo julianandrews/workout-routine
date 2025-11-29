@@ -18,13 +18,6 @@
 | Forearm Flexor Stretch    |     | ☐   |     | ☐   |     | 30s (per side)            |
 | Wrist Extensions          | ☐   | ☐   | ☐   | ☐   | ☐   | 2×10 (3-0-5-0 tempo)      |
 
-## Optional
-
-| Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
-|---------------------------|-----|-----|-----|-----|-----|---------------------------|
-| Handstand Pushup GTG play | ☐   | ☐   | ☐   | ☐   | ☐   | 1×1-2                     |
-| Meditate                  | ☐   | ☐   | ☐   | ☐   | ☐   | 10 minutes                |
-
 ## Cardio
 
 | # | Activity      | Range | Time  | Notes                               | ✓ |
