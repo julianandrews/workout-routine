@@ -47,3 +47,28 @@
     - Palloff Press (for core rotation)
     - Suitcase carries (obliques, could add to lower body day)
     - Side planks - covers a lot of good stuff, could do 30s/side
+
+## Tennis Elbow Re-introduction
+
+Here's the exercises I'm planning to re-introduce over the next few weeks:
+
+### Monday
+
+| Exercise                  | Volume    | Reps  | Sets | Notes                      |
+|---------------------------|-----------|-------|------|----------------------------|
+| Bench Press               |           | 4▲    | 1    |                            |
+| Barbell OHP               |           | 5▲    | 1    |                            |
+| Assisted Chins            |           | 6-8   | 1    |                            |
+
+### Thursday
+
+| Exercise                  | Volume    | Reps  | Sets | Notes                      |
+|---------------------------|-----------|-------|------|----------------------------|
+| Weighted Dips             |           | 6-8   | 2    |                            |
+| One-Armed Pushups         |           | 5     | 1    |                            |
+
+### Friday
+
+| Exercise                  | Volume    | Reps  | Sets | Notes                      |
+|---------------------------|-----------|-------|------|----------------------------|
+| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
