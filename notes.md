@@ -56,7 +56,6 @@ Here's the exercises I'm planning to re-introduce over the next few weeks:
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
-| Bench Press               |           | 4▲    | 1    |                            |
 | Barbell OHP               |           | 5▲    | 1    |                            |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 
@@ -66,9 +65,3 @@ Here's the exercises I'm planning to re-introduce over the next few weeks:
 |---------------------------|-----------|-------|------|----------------------------|
 | Weighted Dips             |           | 6-8   | 2    |                            |
 | One-Armed Pushups         |           | 5     | 1    |                            |
-
-### Friday
-
-| Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|---------------------------|-----------|-------|------|----------------------------|
-| Seated DB Lat Raises      |           | 10-12 | 3    | 3-0-1 tempo (light)        |
