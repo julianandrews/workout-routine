@@ -24,6 +24,8 @@
 
 ## Idea dump
 
+- Reintroduce chins/one armed pushups
+    - With the tennis elbow, it's better to just cut these for a few months
 - Thoracic rotation
     - Consider adding load at the end of range for the bretzel by pulling against a resistance band
 - Start alternating grip on rows for elbow health
@@ -47,20 +49,3 @@
     - Palloff Press (for core rotation)
     - Suitcase carries (obliques, could add to lower body day)
     - Side planks - covers a lot of good stuff, could do 30s/side
-
-## Tennis Elbow Re-introduction
-
-Here's the exercises I'm planning to re-introduce over the next few weeks:
-
-### Monday
-
-| Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|---------------------------|-----------|-------|------|----------------------------|
-| Assisted Chins            |           | 6-8   | 1    |                            |
-
-### Thursday
-
-| Exercise                  | Volume    | Reps  | Sets | Notes                      |
-|---------------------------|-----------|-------|------|----------------------------|
-| Weighted Dips             |           | 6-8   | 2    |                            |
-| One-Armed Pushups         |           | 5     | 1    |                            |

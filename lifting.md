@@ -5,7 +5,7 @@
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
 | Bench Press               |           | 4▲    | ☐     |                            |
-| Barbell OHP               |           | 5▲    | 1    |                            |
+| Barbell OHP               |           | 5▲    | 1     |                            |
 | DB Rows                   |           | 5-6   | ☐ ☐   |                            |
 
 ## Tuesday
@@ -23,6 +23,7 @@
 | DB Bench Press            |           | 10-12 | ☐ ☐   |                            |
 | DB Incline Press (15°)    |           | 10-12 | ☐ ☐   |                            |
 | Ring Rows                 |           | 10-12 | ☐ ☐   | 2-1-2 tempo                |
+| Weighted Dips             |           | 6-8   | 2     | Just 3 this week           |
 
 ## Friday
 
