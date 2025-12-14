@@ -5,6 +5,7 @@
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
 | Bench Press               |           | 4▲    | ☐     |                            |
+| Barbell OHP               |           | 5▲    | 1    |                            |
 | DB Rows                   |           | 5-6   | ☐ ☐   |                            |
 
 ## Tuesday

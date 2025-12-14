@@ -56,7 +56,6 @@ Here's the exercises I'm planning to re-introduce over the next few weeks:
 
 | Exercise                  | Volume    | Reps  | Sets | Notes                      |
 |---------------------------|-----------|-------|------|----------------------------|
-| Barbell OHP               |           | 5▲    | 1    |                            |
 | Assisted Chins            |           | 6-8   | 1    |                            |
 
 ### Thursday
