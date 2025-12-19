@@ -14,6 +14,9 @@
 - Lower Body
     - Currently: Bulgarian Split squats
     - Next: Glute hypertrophy
+        - Once I'm good on split squats, the current plan is to reduce volume
+          to maintenance and then add in some hip thrusts as my new lower body
+          strength and mobility driver.
 - Mobility & Skill work
     - Currently: ankle mobilty push
     - Eventually:
