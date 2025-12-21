@@ -13,7 +13,7 @@
 | Dead Hang w/ shrugs       |     | ☐   |     |     | ☐   | 1×45s (5+ shrugs)         |
 | Wall Angels               |     | ☐   |     | ☐   |     | 2×8                       |
 | Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
-| Tibialis Raises           | ☐   |     | ☐   |     | ☐   | 2×15 (per side)           |
+| Tibialis Raises           | ☐   |     |     |     |     | 1×15 (per side)           |
 | Weighted Ankle Mobs       | ☐   |     | ☐   |     | ☐   | 2×30-45s (per side)       |
 | Wrist Extensions          | ☐   | ☐   | ☐   | ☐   | ☐   | 2×10 (3-0-5-0 tempo)      |
 | Forearm Flexor Stretch    |     | ☐   |     | ☐   |     | 30s (per side)            |
