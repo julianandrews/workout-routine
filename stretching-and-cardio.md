@@ -16,7 +16,7 @@
 | Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 30s (per side)            |
 | Banded Ankle Distractions | ☐   |     |     | ☐   |     | 2×45s (per side)          |
 | Weighted Ankle Mobs       | ☐   |     |     | ☐   |     | 2×45s (per side)          |
-| Wrist Extensions          | ☐   |     | ☐   |     | ☐   | 2×10 (3-0-5-0 tempo)      |
+| Wrist Extensions          | ☐   |     | ☐   |     | ☐   | 2×10 (2-0-5-0 tempo)      |
 
 ## Cardio
 
