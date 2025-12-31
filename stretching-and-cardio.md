@@ -7,12 +7,12 @@
 | Paused Cossack Squats     |     | ☐   |     |     | ☐   | 2×5 (per side)            |
 | Spiderman Rocks           |     | ☐   |     |     | ☐   | 1×8 (per side)            |
 | Dead Hang w/ shrugs       |     | ☐   |     |     | ☐   | 1×45s (5+ shrugs)         |
-| Bretzel                   |     | ☐   |     | ☐   |     | 60s (per side)            |
-| Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
-| Pancake PNF w/ pulses     | ☐   |     | ☐   |     | ☐   | 3 rounds                  |
+| Bretzel                   |     | ☐   |     |     | ☐   | 60s (per side)            |
+| Pancake PNF w/ pulses     |     | ☐   |     |     | ☐   | 3 rounds                  |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
+| Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
 | Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 30s (per side)            |
 | Banded Ankle Distractions | ☐   |     |     | ☐   |     | 2×45s (per side)          |
 | Weighted Ankle Mobs       | ☐   |     |     | ☐   |     | 2×45s (per side)          |
