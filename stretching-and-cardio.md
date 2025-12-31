@@ -12,6 +12,7 @@
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
+| Overhead Triceps Stretch  |     |     | ☐   |     |     | 1×60s (per side)          |
 | Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
 | Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 30s (per side)            |
 | Banded Ankle Distractions | ☐   |     |     | ☐   |     | 2×45s (per side)          |
