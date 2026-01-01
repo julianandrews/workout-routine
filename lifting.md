@@ -32,7 +32,6 @@
 | Incline DB Rear Delt Flys |           | 12-15 | ☐ ☐   | 2-1-2-1 tempo              |
 | Seated DB Lat Raises      |           | 10-12 | ☐ ☐ ☐ | 3-0-1 tempo (light)        |
 | Banded Face Pulls         |           | 12-15 | ☐ ☐   |                            |
-| 3-Way Band Pull-Aparts    |           | 15    | ☐ ☐ ☐ | 1 regular, 1 low, 1 high   |
 
 > ▲ = 3-set cluster ramping down by 1. Increase reps by 1 for progression  
 > ▲▲ = 3-set cluster ramping down by 2. Increase reps by 1 for progression
