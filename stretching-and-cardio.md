@@ -1,6 +1,6 @@
-# Stretching, Skill Work, and Cardio
+# Mobility, Prehab, Skill Work, and Cardio
 
-## Stretching and Skill Work
+## Mobility, Prehab, and Skill Work
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |---------------------------|-----|-----|-----|-----|-----|---------------------------|
@@ -14,7 +14,7 @@
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
 | Overhead Triceps Stretch  |     |     | ☐   |     |     | 1×60s (per side)          |
 | Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
-| Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 30s (per side)            |
+| Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 45s (per side)            |
 | Banded Ankle Distractions | ☐   |     |     | ☐   |     | 2×45s (per side)          |
 | Weighted Ankle Mobs       | ☐   |     |     | ☐   |     | 2×45s (per side)          |
 | Wrist Extensions          | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
