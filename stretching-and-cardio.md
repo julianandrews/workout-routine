@@ -13,6 +13,7 @@
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
 | Overhead Triceps Stretch  |     |     | ☐   |     |     | 1×60s (per side)          |
+| Banded Face Pulls         |     |     | ☐   |     |     | 2×15                      |
 | Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
 | Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 45s (per side)            |
 | Banded Ankle Distractions | ☐   |     |     | ☐   |     | 2×45s (per side)          |
