@@ -110,7 +110,23 @@ th {
 .optional table th:nth-child(8),
 .optional table td:nth-child(8),
 .optional table th:nth-child(9),
-.optional table td:nth-child(9) {
+.optional table td:nth-child(9),
+.vitamins-and-supplements table th:nth-child(2),
+.vitamins-and-supplements table td:nth-child(2),
+.vitamins-and-supplements table th:nth-child(3),
+.vitamins-and-supplements table td:nth-child(3),
+.vitamins-and-supplements table th:nth-child(4),
+.vitamins-and-supplements table td:nth-child(4),
+.vitamins-and-supplements table th:nth-child(5),
+.vitamins-and-supplements table td:nth-child(5),
+.vitamins-and-supplements table th:nth-child(6),
+.vitamins-and-supplements table td:nth-child(6),
+.vitamins-and-supplements table th:nth-child(7),
+.vitamins-and-supplements table td:nth-child(7),
+.vitamins-and-supplements table th:nth-child(8),
+.vitamins-and-supplements table td:nth-child(8),
+.vitamins-and-supplements table th:nth-child(9),
+.vitamins-and-supplements table td:nth-child(9) {
     text-align: center;
     width: 6%;
 }
@@ -152,4 +168,14 @@ th {
 .cardio table td:nth-child(6) {
     width: 3%;
     text-align: center
+}
+
+.vitamins-and-supplements table th:nth-child(1),
+.vitamins-and-supplements table td:nth-child(1) {
+    width: 36%;
+}
+
+.vitamins-and-supplements table th:nth-child(2),
+.vitamins-and-supplements table td:nth-child(2) {
+    width: 10%;
 }

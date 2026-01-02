@@ -1,5 +1,6 @@
 pages: 
   - lifting.md
   - stretching-and-cardio.md
+  - vitamins-and-supplements.md
 stylesheet: styles.css
 output_file: /tmp/workout.pdf
