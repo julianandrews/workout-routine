@@ -28,7 +28,7 @@
 
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
-| Incline DB Rear Delt Flys |           | 12-15 | ☐ ☐   | 2-1-2-1 tempo              |
+| Incline DB Rear Delt Flys |           | 12-15 | ☐ ☐ ☐ | 2-1-2-1 tempo              |
 | Seated DB Lat Raises      |           | 10-12 | ☐ ☐ ☐ | 3-0-1 tempo (light)        |
 | Weighted Dips             |           | 6-8   | ☐ ☐   |                            |
 
