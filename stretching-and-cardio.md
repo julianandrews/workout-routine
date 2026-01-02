@@ -1,6 +1,6 @@
-# Mobility, Prehab, Skill Work, and Cardio
+# Mobility, Prehab, and Cardio
 
-## Mobility, Prehab, and Skill Work
+## Mobility and Prehab
 
 | Exercise                  | Mon | Tue | Wed | Thu | Fri | Details                   |
 |---------------------------|-----|-----|-----|-----|-----|---------------------------|

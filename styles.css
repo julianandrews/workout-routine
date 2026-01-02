@@ -72,23 +72,23 @@ th {
     width: 39%;
 }
 
-.stretching-and-skill-work table th:nth-child(1),
-.stretching-and-skill-work table td:nth-child(1),
+.mobility-and-prehab table th:nth-child(1),
+.mobility-and-prehab table td:nth-child(1),
 .optional table th:nth-child(1),
 .optional table td:nth-child(1) {
     width: 35%;
 }
 
-.stretching-and-skill-work table th:nth-child(2),
-.stretching-and-skill-work table td:nth-child(2),
-.stretching-and-skill-work table th:nth-child(3),
-.stretching-and-skill-work table td:nth-child(3),
-.stretching-and-skill-work table th:nth-child(4),
-.stretching-and-skill-work table td:nth-child(4),
-.stretching-and-skill-work table th:nth-child(5),
-.stretching-and-skill-work table td:nth-child(5),
-.stretching-and-skill-work table th:nth-child(6),
-.stretching-and-skill-work table td:nth-child(6),
+.mobility-and-prehab table th:nth-child(2),
+.mobility-and-prehab table td:nth-child(2),
+.mobility-and-prehab table th:nth-child(3),
+.mobility-and-prehab table td:nth-child(3),
+.mobility-and-prehab table th:nth-child(4),
+.mobility-and-prehab table td:nth-child(4),
+.mobility-and-prehab table th:nth-child(5),
+.mobility-and-prehab table td:nth-child(5),
+.mobility-and-prehab table th:nth-child(6),
+.mobility-and-prehab table td:nth-child(6),
 .optional table th:nth-child(2),
 .optional table td:nth-child(2),
 .optional table th:nth-child(3),
@@ -103,8 +103,8 @@ th {
     width: 6%;
 }
 
-.stretching-and-skill-work table th:nth-child(7),
-.stretching-and-skill-work table td:nth-child(7),
+.mobility-and-prehab table th:nth-child(7),
+.mobility-and-prehab table td:nth-child(7),
 .optional table th:nth-child(7),
 .optional table td:nth-child(7) {
     width: 35%;
