@@ -4,6 +4,11 @@
 
 - Do some dead hangs w/ supinated grip for better wrist health.
 
+## Misc Notes
+
+- For the ankle mobilizations, I'm following this protocol:
+  https://youtu.be/caMsWFX78DA
+
 ## Goals
 
 - Upper body

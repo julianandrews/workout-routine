@@ -16,7 +16,7 @@
 | Banded Face Pulls         | ☐   | ☐   | ☐   | ☐   | ☐   | 1×15                      |
 | Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
 | Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 45s (per side)            |
-| Banded Ankle Distractions | ☐   |     |     | ☐   |     | Play with it              |
+| Banded Ankle Distractions | ☐   |     |     | ☐   |     | See notes                 |
 | Weighted Ankle Mobs       | ☐   |     |     | ☐   |     | 1×90s (per side)          |
 | Wrist Extensions          | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
 | Wrist Flexions            | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
