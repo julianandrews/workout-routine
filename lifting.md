@@ -14,7 +14,7 @@
 |---------------------------|-----------|-------|-------|----------------------------|
 | Bulgarian Split Squat     |           | 6-8   | ☐ ☐   | Glute Bias                 |
 | RDLs                      |           | 5-6   | ☐ ☐   |                            |
-| Band-Assisted Nordics     |           | 5     | ☐ ☐ ☐ |                            |
+| Band-Assisted Nordics     |           | 5     | ☐ ☐   |                            |
 
 ## Thursday
 
