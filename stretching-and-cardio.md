@@ -15,8 +15,7 @@
 | Overhead Triceps Stretch  |     |     | ☐   |     |     | 1×60s (per side)          |
 | Banded Face Pulls         | ☐   | ☐   | ☐   | ☐   | ☐   | 1×15                      |
 | Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
-| Banded Ankle Distractions | ☐   |     |     | ☐   |     | See notes                 |
-| Weighted Ankle Mobs       | ☐   |     |     | ☐   |     | 1×90s (per side)          |
+| 3rd World Squat Stretch   | ☐   |     |     | ☐   |     | 60s (heels raised)        |
 | Wrist Extensions          | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
 | Wrist Flexions            | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
 | Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 45s (per side)            |
