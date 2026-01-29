@@ -18,7 +18,7 @@
 | 3rd World Squat Stretch   | ☐   |     |     | ☐   |     | 60s (heels raised)        |
 | Wrist Extensions          | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
 | Wrist Flexions            | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
-| Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 45s (per side)            |
+| Forearm Flexor Stretch    | ☐   |     |     | ☐   |     | 60s                       |
 
 ## Cardio
 
