@@ -9,6 +9,7 @@
 | Dead Hang w/ shrugs       |     | ☐   |     |     | ☐   | 1×45s (5+ shrugs)         |
 | Bretzel                   |     | ☐   |     |     | ☐   | 60s (per side)            |
 | Pancake PNF w/ pulses     |     | ☐   |     |     | ☐   | 3 rounds                  |
+| Glute Bridges             |     |     | ☐   |     |     | 1×15                      |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
