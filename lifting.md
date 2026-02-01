@@ -7,6 +7,7 @@
 | Bench Press               |           | 4▲    | ☐     |                            |
 | DB OHP                    |           | 5▲    | ☐     |                            |
 | DB Rows                   |           | 5-6   | ☐ ☐   |                            |
+| Banded Face Pulls         |           | 15    | ☐ ☐   | 2-1-2-1 tempo              |
 
 ## Tuesday
 
@@ -23,6 +24,7 @@
 | DB Bench Press            |           | 10-12 | ☐ ☐   |                            |
 | DB Incline Press (15°)    |           | 10-12 | ☐ ☐   |                            |
 | DB Rows                   |           | 8-10  | ☐ ☐   |                            |
+| Banded Face Pulls         |           | 15    | ☐ ☐   | 2-1-2-1 tempo              |
 
 ## Friday
 

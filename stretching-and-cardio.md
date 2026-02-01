@@ -13,7 +13,6 @@
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
 | Overhead Triceps Stretch  |     |     | ☐   |     |     | 1×60s (per side)          |
-| Banded Face Pulls         | ☐   | ☐   | ☐   | ☐   | ☐   | 1×15                      |
 | Wall Angels               | ☐   |     |     | ☐   |     | 2×8                       |
 | 3rd World Squat Stretch   | ☐   |     |     | ☐   |     | 60s (heels raised)        |
 | Wrist Extensions          | ☐   |     |     | ☐   |     | 2×10 (2-0-5-0 tempo)      |
