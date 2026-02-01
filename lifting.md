@@ -30,8 +30,8 @@
 
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
-| Incline DB Rear Delt Flys |           | 12-15 | ☐ ☐ ☐ | 2-1-2-1 tempo              |
 | Seated DB Lat Raises      |           | 10-12 | ☐ ☐ ☐ | 3-0-1 tempo (light)        |
+| Incline DB Rear Delt Flys |           | 12-15 | ☐ ☐ ☐ | 2-1-2-1 tempo              |
 | Weighted Dips             |           | 6-8   | ☐ ☐   |                            |
 
 > ▲ = 3-set cluster ramping down by 1. Increase reps by 1 for progression  
