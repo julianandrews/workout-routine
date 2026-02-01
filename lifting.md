@@ -13,7 +13,7 @@
 
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
-| Bulgarian Split Squat     |           | 6-8   | ☐ ☐   | Glute Bias                 |
+| Bulgarian Split Squat     |           | 6-8   | ☐ ☐   |                            |
 | RDLs                      |           | 5-6   | ☐ ☐   |                            |
 | Band-Assisted Nordics     |           | 5     | ☐ ☐   |                            |
 
