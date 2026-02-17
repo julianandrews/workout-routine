@@ -13,7 +13,7 @@
 
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
-| Bulgarian Split Squat     |           | 6-8   | ☐ ☐   |                            |
+| Bulgarian Split Squat     |           | 5     | ☐ ☐   |                            |
 | RDLs                      |           | 5-6   | ☐ ☐   |                            |
 | Band-Assisted Nordics     |           | 5     | ☐ ☐   |                            |
 
