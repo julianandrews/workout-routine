@@ -73,9 +73,7 @@ th {
 }
 
 .stretching-and-skill-work table th:nth-child(1),
-.stretching-and-skill-work table td:nth-child(1),
-.optional table th:nth-child(1),
-.optional table td:nth-child(1) {
+.stretching-and-skill-work table td:nth-child(1) {
     width: 23%;
 }
 
@@ -93,24 +91,6 @@ th {
 .stretching-and-skill-work table td:nth-child(7),
 .stretching-and-skill-work table th:nth-child(8),
 .stretching-and-skill-work table td:nth-child(8),
-.stretching-and-skill-work table th:nth-child(9),
-.stretching-and-skill-work table td:nth-child(9),
-.optional table th:nth-child(2),
-.optional table td:nth-child(2),
-.optional table th:nth-child(3),
-.optional table td:nth-child(3),
-.optional table th:nth-child(4),
-.optional table td:nth-child(4),
-.optional table th:nth-child(5),
-.optional table td:nth-child(5),
-.optional table th:nth-child(6),
-.optional table td:nth-child(6),
-.optional table th:nth-child(7),
-.optional table td:nth-child(7),
-.optional table th:nth-child(8),
-.optional table td:nth-child(8),
-.optional table th:nth-child(9),
-.optional table td:nth-child(9),
 .vitamins-and-supplements table th:nth-child(2),
 .vitamins-and-supplements table td:nth-child(2),
 .vitamins-and-supplements table th:nth-child(3),
@@ -131,10 +111,8 @@ th {
     width: 6%;
 }
 
-.stretching-and-skill-work table th:nth-child(10),
-.stretching-and-skill-work table td:nth-child(10),
-.optional table th:nth-child(10),
-.optional table td:nth-child(10) {
+.stretching-and-skill-work table th:nth-child(9),
+.stretching-and-skill-work table td:nth-child(9) {
     width: 22%;
 }
 
