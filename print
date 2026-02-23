@@ -20,7 +20,7 @@ worksheet-generator "$SCRIPT_DIR/config.yaml" -o "$OUTPUT_FILE"
 
 if [ "$GENERATE_ONLY" = false ]; then
     # Print two-sided
-    lp -o sides=two-sided-long-edge "$OUTPUT_FILE"
+    lp -o number-up=2 "$OUTPUT_FILE"
     
     # Clean up
     rm -f "$OUTPUT_FILE"
