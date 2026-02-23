@@ -6,7 +6,6 @@
 |---------------------------|-----|-----|-----|-----|-----|---------------------------|
 | Paused Cossack Squats     |     | ☐   |     |     | ☐   | 2×5 (per side)            |
 | Spiderman Rocks           |     | ☐   |     |     | ☐   | 1×8 (per side)            |
-| Dead Hang w/ shrugs       |     | ☐   |     |     | ☐   | 1×45s (5+ shrugs)         |
 | Bretzel                   |     | ☐   |     |     | ☐   | 60s (per side)            |
 | Pancake PNF w/ pulses     |     | ☐   |     |     | ☐   | 3 rounds                  |
 | Glute Bridges             |     |     | ☐   |     |     | 1×15                      |
