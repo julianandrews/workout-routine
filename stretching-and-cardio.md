@@ -8,6 +8,8 @@
 | Spiderman Rocks           |     | ☐   |     |     | ☐   | 1×8 (per side)            |
 | Bretzel                   |     | ☐   |     |     | ☐   | 60s (per side)            |
 | Pancake PNF w/ pulses     |     | ☐   |     |     | ☐   | 3 rounds                  |
+| Couch Stretch             |     | ☐   |     |     |     | 60s (per side)            |
+| Kneeling Lat Stretch      |     |     |     |     | ☐   | 2x60s                     |
 | Glute Bridges             |     |     | ☐   |     |     | 1×15                      |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
