@@ -7,10 +7,10 @@
 | Paused Cossack Squats     |     | ☐   |     |     | ☐   | 2×5 (per side)            |
 | Spiderman Rocks           |     | ☐   |     |     | ☐   | 1×8 (per side)            |
 | Bretzel                   |     | ☐   |     |     | ☐   | 60s (per side)            |
-| Pancake PNF w/ pulses     |     | ☐   |     |     | ☐   | 3 rounds                  |
+| Glute Bridges             |     | ☐   |     |     |     | 1×15                      |
 | Couch Stretch             |     | ☐   |     |     |     | 60s (per side)            |
 | Kneeling Lat Stretch      |     |     |     |     | ☐   | 2x60s                     |
-| Glute Bridges             |     |     | ☐   |     |     | 1×15                      |
+| Pancake PNF w/ pulses     |     |     | ☐   |     | ☐   | 3 rounds                  |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
 | Elbow CARs                |     |     | ☐   |     |     | 1×5 (per side)            |
