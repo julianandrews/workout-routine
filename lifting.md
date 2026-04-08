@@ -13,7 +13,7 @@
 
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
-| Bulgarian Split Squats    |           | 5     | ☐ ☐   |                            |
+| Bulgarian Split Squats    |           | 5-8   | ☐ ☐   |                            |
 | Band-Assisted Nordics     |           | 5     | ☐ ☐   |                            |
 
 ## Thursday
