@@ -5,7 +5,7 @@
 | Exercise                  | Volume    | Reps  | Sets  | Notes                      |
 |---------------------------|-----------|-------|-------|----------------------------|
 | DB Bench Press            |           | 8-12  | ☐ ☐   |                            |
-| DB OHP                    |           | 5-6   | ☐ ☐   |                            |
+| DB OHP                    |           | 5-8   | ☐ ☐   |                            |
 | Banded Face Pulls         |           | 15    | ☐ ☐   | 2-1-2-1 tempo              |
 
 
