@@ -9,7 +9,6 @@
 | Bretzel                   |     | ☐   |     |     | ☐   | 60s (per side)            |
 | Glute Bridges             |     | ☐   |     |     |     | 1×15                      |
 | Couch Stretch             |     | ☐   |     |     |     | 60s (per side)            |
-| Banded Hip IR PNF         |     |     | ☐   |     | ☐   | 3 rounds                  |
 | Pancake PNF w/ pulses     |     |     | ☐   |     | ☐   | 3 rounds                  |
 | 90-90 Switches            |     |     | ☐   |     |     | 2×6 (per side)            |
 | Shoulder CARs             |     |     | ☐   |     |     | 1×4 (per side)            |
